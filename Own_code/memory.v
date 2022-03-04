@@ -3,14 +3,14 @@
 // Sample data memory
 module Common_Memory(
  input clk,
- input [31:0]   Adr,
- input [31:0]   MWD,
- input MWR,
- input MOE,
- output [31:0]   MRD
+ input [31:0]   Adr, //Adress
+ input [31:0]   MWD, //Data
+ input MWR,          //Memory Write
+ input MOE,          //Memory Output Enable
+ output [31:0]   MRD //Memory Read Data
 );
 
-reg [31:0] memory [1023:0]; 
+reg [32:0] memory [1023:0]; //Extra bit to indicate lock 
 
 wire [5:0] ram_addr=Adr[5:0];
 
