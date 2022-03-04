@@ -18,5 +18,5 @@ wire [5:0] ram_addr=Adr[5:0];
   if (MWR)
    memory[ram_addr] <= MWD;
  end
- assign MRD = (MOE==1'b1) ? memory[ram_addr]: 32'd0; 
+ assign MRD = (MOE==1'b1) ? (memory[ram_addr][31:0]): 32'd0; 
 endmodule
