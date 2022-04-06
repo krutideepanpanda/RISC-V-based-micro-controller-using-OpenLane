@@ -1,0 +1,18 @@
+-------------------------------------------------------------------------------------------------------------------------------------
+ENABLE_PCPI (default = 0)
+Set this to 1 to enable the Pico Co-Processor Interface (PCPI).
+
+This was changed to 1.
+-------------------------------------------------------------------------------------------------------------------------------------
+ENABLE_FAST_MUL (default = 0)
+This parameter internally enables PCPI and instantiates the picorv32_pcpi_fast_mul core that implements the MUL[H[SU|U]] instructions. The external PCPI interface only becomes functional when ENABLE_PCPI is set as well.
+
+This was changed to 1.
+-------------------------------------------------------------------------------------------------------------------------------------
+If both ENABLE_MUL and ENABLE_FAST_MUL are set then the ENABLE_MUL setting will be ignored and the fast multiplier core will be instantiated.
+
+ENABLE_DIV (default = 0)
+This parameter internally enables PCPI and instantiates the picorv32_pcpi_div core that implements the DIV[U]/REM[U] instructions. The external PCPI interface only becomes functional when ENABLE_PCPI is set as well.
+
+This was changed to 1.
+-------------------------------------------------------------------------------------------------------------------------------------
