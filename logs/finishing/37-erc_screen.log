@@ -1,0 +1,145 @@
+CVC: Circuit Validation Check  Version 1.1.0
+CVC: Log output to /openlane/designs/picorv32_base/runs/RUN_2022.04.10_15.39.50/reports/finishing/picorv32_base.rpt
+CVC: Error output to /openlane/designs/picorv32_base/runs/RUN_2022.04.10_15.39.50/reports/finishing/picorv32_base.rpt.error.gz
+CVC: Debug output to /openlane/designs/picorv32_base/runs/RUN_2022.04.10_15.39.50/reports/finishing/picorv32_base.rpt.debug.gz
+CVC: Start: Sun Apr 10 17:00:41 2022
+
+Using the following parameters for CVC (Circuit Validation Check) from /openlane/scripts/cvc/sky130A/cvcrc.sky130A
+CVC_TOP = 'picorv32_base'
+CVC_NETLIST = '/openlane/designs/picorv32_base/runs/RUN_2022.04.10_15.39.50/tmp/finishing/picorv32_base.cdl'
+CVC_MODE = 'picorv32_base'
+CVC_MODEL_FILE = '/openlane/scripts/cvc/sky130A/cvc.sky130A.models'
+CVC_POWER_FILE = '/openlane/designs/picorv32_base/runs/RUN_2022.04.10_15.39.50/tmp/finishing/picorv32_base.power'
+CVC_FUSE_FILE = ''
+CVC_REPORT_FILE = '/openlane/designs/picorv32_base/runs/RUN_2022.04.10_15.39.50/reports/finishing/picorv32_base.rpt'
+CVC_REPORT_TITLE = 'CVC $CVC_TOP'
+CVC_CIRCUIT_ERROR_LIMIT = '100'
+CVC_SEARCH_LIMIT = '100'
+CVC_LEAK_LIMIT = '0.0002'
+CVC_SOI = 'false'
+CVC_SCRC = 'false'
+CVC_VTH_GATES = 'false'
+CVC_MIN_VTH_GATES = 'false'
+CVC_IGNORE_VTH_FLOATING = 'false'
+CVC_IGNORE_NO_LEAK_FLOATING = 'false'
+CVC_LEAK_OVERVOLTAGE = 'true'
+CVC_LOGIC_DIODES = 'false'
+CVC_ANALOG_GATES = 'true'
+CVC_BACKUP_RESULTS = 'false'
+CVC_MOS_DIODE_ERROR_THRESHOLD = '0'
+CVC_SHORT_ERROR_THRESHOLD = '0'
+CVC_BIAS_ERROR_THRESHOLD = '0'
+CVC_FORWARD_ERROR_THRESHOLD = '0'
+CVC_FLOATING_ERROR_THRESHOLD = '0'
+CVC_GATE_ERROR_THRESHOLD = '0'
+CVC_LEAK?_ERROR_THRESHOLD = '0'
+CVC_EXPECTED_ERROR_THRESHOLD = '0'
+CVC_OVERVOLTAGE_ERROR_THRESHOLD = '0'
+CVC_PARALLEL_CIRCUIT_PORT_LIMIT = '0'
+CVC_CELL_ERROR_LIMIT_FILE = ''
+CVC_CELL_CHECKSUM_FILE = ''
+CVC_LARGE_CIRCUIT_SIZE = '10000000'
+CVC_NET_CHECK_FILE = ''
+CVC_MODEL_CHECK_FILE = ''
+End of parameters
+
+CVC: Reading device model settings...
+CVC: Reading power settings...
+CVC: Parsing netlist /openlane/designs/picorv32_base/runs/RUN_2022.04.10_15.39.50/tmp/finishing/picorv32_base.cdl
+
+Cdl fixed data size 1160695
+Usage CDL: Time: 0  Memory: 46468  I/O: 8  Swap: 0
+CVC: Counting and linking...
+CVC: Assigning IDs ...
+Usage DB: Time: 0  Memory: 53168  I/O: 8  Swap: 0
+CVC: 70108(70108) instances, 103223(103223) nets, 258318(258318) devices.
+Setting power for mode...
+Setting models...
+CVC: Setting models ...
+Setting model tolerances...
+CVC: Shorting switches...
+ model short...
+	Shorted 82 short
+Setting instance power...
+CVC: Linking devices...
+
+Usage EQUIV: Time: 0  Memory: 79260  I/O: 32  Swap: 0
+Power nets 113
+CVC: Shorting non conducting resistors...
+CVC: Calculating resistor voltages...
+Usage RES: Time: 0  Memory: 79260  I/O: 32  Swap: 0
+Power nets 113
+CVC: Calculating min/max voltages...
+Processing trivial nets found 32623 trivial nets
+CVC: Ignoring invalid calculations...
+CVC:   Removed 0 calculations
+Copying master nets
+CVC: Ignoring non-conducting devices...
+CVC:   Ignored 0 devices
+Usage MIN/MAX1: Time: 1  Memory: 82488  I/O: 32  Swap: 0
+Power nets 40912
+! Checking forward bias diode errors: 
+
+! Checking nmos source/drain vs bias errors: 
+
+! Checking nmos gate vs source errors: 
+
+! Checking pmos source/drain vs bias errors: 
+
+! Checking pmos gate vs source errors: 
+
+Usage ERROR: Time: 1  Memory: 82488  I/O: 32  Swap: 0
+Saving min/max voltages...
+CVC: Propagating Simulation voltages 1...
+Usage SIM1: Time: 1  Memory: 84336  I/O: 32  Swap: 0
+Power nets 40912
+Saving simulation voltages...
+CVC: Propagating Simulation voltages 3...
+Usage SIM2: Time: 1  Memory: 85128  I/O: 32  Swap: 0
+Power nets 40912
+Added 0 latch voltages
+CVC: Calculating min/max voltages...
+Processing trivial nets found 32623 trivial nets
+CVC: Ignoring invalid calculations...
+CVC:   Removed 0 calculations
+Copying master nets
+CVC: Ignoring non-conducting devices...
+CVC:   Ignored 0 devices
+Usage MIN/MAX2: Time: 1  Memory: 88560  I/O: 32  Swap: 0
+Power nets 81711
+! Checking overvoltage errors
+
+! Checking nmos possible leak errors: 
+
+! Checking pmos possible leak errors: 
+
+! Checking mos floating input errors:
+
+! Checking expected values:
+
+CVC: Error Counts
+CVC: Fuse Problems:         0
+CVC: Min Voltage Conflicts: 0
+CVC: Max Voltage Conflicts: 0
+CVC: Leaks:                 0
+CVC: LDD drain->source:     0
+CVC: HI-Z Inputs:           0
+CVC: Forward Bias Diodes:   0
+CVC: NMOS Source vs Bulk:   0
+CVC: NMOS Gate vs Source:   0
+CVC: NMOS Possible Leaks:   0
+CVC: PMOS Source vs Bulk:   0
+CVC: PMOS Gate vs Source:   0
+CVC: PMOS Possible Leaks:   0
+CVC: Overvoltage-VBG:       0
+CVC: Overvoltage-VBS:       0
+CVC: Overvoltage-VDS:       0
+CVC: Overvoltage-VGS:       0
+CVC: Model errors:          0
+CVC: Unexpected voltage :   0
+CVC: Total:                 0
+Usage Total: Time: 1  Memory: 88824  I/O: 80  Swap: 0
+Virtual net update/access 913493/25695476
+CVC: Log output to /openlane/designs/picorv32_base/runs/RUN_2022.04.10_15.39.50/reports/finishing/picorv32_base.rpt
+CVC: End: Sun Apr 10 17:00:43 2022
+

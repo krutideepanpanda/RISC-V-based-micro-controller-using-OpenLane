@@ -1,0 +1,19 @@
+Design Name: picorv32_base
+Run Directory: /openlane/designs/picorv32_base/runs/RUN_2022.04.10_15.39.50
+----------------------------------------
+
+Magic DRC Summary:
+Source: /openlane/designs/picorv32_base/runs/RUN_2022.04.10_15.39.50/reports/finishing/drc.rpt
+Total Magic DRC violations is 0
+----------------------------------------
+
+LVS Summary:
+Source: /openlane/designs/picorv32_base/runs/RUN_2022.04.10_15.39.50/logs/finishing/34-picorv32_base.lvs.lef.log
+LVS reports no net, device, pin, or property mismatches.
+Total errors = 0
+----------------------------------------
+
+Antenna Summary:
+Source: /openlane/designs/picorv32_base/runs/RUN_2022.04.10_15.39.50/reports/finishing/antenna.rpt
+Number of pins violated: 164
+Number of nets violated: 142

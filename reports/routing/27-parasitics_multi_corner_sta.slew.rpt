@@ -1,0 +1,150 @@
+
+===========================================================================
+ report_check_types -max_slew -max_cap -max_fanout -violators
+============================================================================
+
+======================= Slowest Corner ===================================
+
+max slew
+
+Pin                                    Limit    Slew   Slack
+------------------------------------------------------------
+_30669_/Y                               1.49    1.72   -0.23 (VIOLATED)
+ANTENNA_124/DIODE                       1.50    1.72   -0.22 (VIOLATED)
+ANTENNA_122/DIODE                       1.50    1.72   -0.22 (VIOLATED)
+ANTENNA_120/DIODE                       1.50    1.72   -0.22 (VIOLATED)
+ANTENNA_118/DIODE                       1.50    1.72   -0.22 (VIOLATED)
+ANTENNA_116/DIODE                       1.50    1.72   -0.22 (VIOLATED)
+_39580_/D                               1.50    1.72   -0.22 (VIOLATED)
+ANTENNA_115/DIODE                       1.50    1.72   -0.22 (VIOLATED)
+ANTENNA_117/DIODE                       1.50    1.72   -0.22 (VIOLATED)
+ANTENNA_119/DIODE                       1.50    1.72   -0.22 (VIOLATED)
+ANTENNA_121/DIODE                       1.50    1.72   -0.22 (VIOLATED)
+ANTENNA_123/DIODE                       1.50    1.72   -0.22 (VIOLATED)
+ANTENNA_114/DIODE                       1.50    1.72   -0.22 (VIOLATED)
+ANTENNA_112/DIODE                       1.50    1.72   -0.22 (VIOLATED)
+ANTENNA_110/DIODE                       1.50    1.72   -0.22 (VIOLATED)
+ANTENNA_108/DIODE                       1.50    1.72   -0.22 (VIOLATED)
+ANTENNA_105/DIODE                       1.50    1.72   -0.22 (VIOLATED)
+ANTENNA_106/DIODE                       1.50    1.72   -0.22 (VIOLATED)
+ANTENNA_107/DIODE                       1.50    1.72   -0.22 (VIOLATED)
+ANTENNA_109/DIODE                       1.50    1.72   -0.22 (VIOLATED)
+ANTENNA_111/DIODE                       1.50    1.72   -0.22 (VIOLATED)
+ANTENNA_113/DIODE                       1.50    1.72   -0.22 (VIOLATED)
+clkbuf_leaf_194_clk/A                   1.50    1.61   -0.11 (VIOLATED)
+clkbuf_leaf_195_clk/A                   1.50    1.61   -0.11 (VIOLATED)
+clkbuf_leaf_204_clk/A                   1.50    1.61   -0.11 (VIOLATED)
+clkbuf_leaf_200_clk/A                   1.50    1.61   -0.11 (VIOLATED)
+clkbuf_leaf_199_clk/A                   1.50    1.61   -0.11 (VIOLATED)
+clkbuf_leaf_201_clk/A                   1.50    1.61   -0.11 (VIOLATED)
+clkbuf_leaf_198_clk/A                   1.50    1.61   -0.11 (VIOLATED)
+clkbuf_leaf_196_clk/A                   1.50    1.61   -0.11 (VIOLATED)
+clkbuf_leaf_202_clk/A                   1.50    1.61   -0.11 (VIOLATED)
+clkbuf_leaf_190_clk/A                   1.50    1.61   -0.11 (VIOLATED)
+clkbuf_leaf_188_clk/A                   1.50    1.61   -0.11 (VIOLATED)
+clkbuf_leaf_189_clk/A                   1.50    1.61   -0.11 (VIOLATED)
+clkbuf_leaf_210_clk/A                   1.50    1.61   -0.11 (VIOLATED)
+clkbuf_leaf_203_clk/A                   1.50    1.61   -0.11 (VIOLATED)
+clkbuf_leaf_197_clk/A                   1.50    1.61   -0.11 (VIOLATED)
+clkbuf_5_21_0_clk/X                     1.50    1.61   -0.11 (VIOLATED)
+_25997_/Y                               1.50    1.57   -0.08 (VIOLATED)
+_26198_/C1                              1.50    1.57   -0.07 (VIOLATED)
+_26307_/A2                              1.50    1.57   -0.07 (VIOLATED)
+_26197_/A2                              1.50    1.57   -0.07 (VIOLATED)
+_26000_/A1                              1.50    1.57   -0.07 (VIOLATED)
+ANTENNA_1395/DIODE                      1.50    1.57   -0.07 (VIOLATED)
+_25999_/B                               1.50    1.57   -0.07 (VIOLATED)
+_37488_/A1                              1.50    1.55   -0.05 (VIOLATED)
+_37989_/A1                              1.50    1.55   -0.05 (VIOLATED)
+_19659_/Y                               1.50    1.55   -0.05 (VIOLATED)
+_30796_/Y                               1.49    1.54   -0.05 (VIOLATED)
+_19660_/A                               1.50    1.55   -0.05 (VIOLATED)
+_37560_/A                               1.50    1.55   -0.05 (VIOLATED)
+ANTENNA_144/DIODE                       1.50    1.54   -0.04 (VIOLATED)
+ANTENNA_142/DIODE                       1.50    1.54   -0.04 (VIOLATED)
+ANTENNA_139/DIODE                       1.50    1.54   -0.04 (VIOLATED)
+ANTENNA_137/DIODE                       1.50    1.54   -0.04 (VIOLATED)
+ANTENNA_135/DIODE                       1.50    1.54   -0.04 (VIOLATED)
+_39581_/D                               1.50    1.54   -0.04 (VIOLATED)
+ANTENNA_136/DIODE                       1.50    1.54   -0.04 (VIOLATED)
+ANTENNA_138/DIODE                       1.50    1.54   -0.04 (VIOLATED)
+ANTENNA_140/DIODE                       1.50    1.54   -0.04 (VIOLATED)
+ANTENNA_141/DIODE                       1.50    1.54   -0.04 (VIOLATED)
+ANTENNA_143/DIODE                       1.50    1.54   -0.04 (VIOLATED)
+ANTENNA_132/DIODE                       1.50    1.54   -0.04 (VIOLATED)
+ANTENNA_130/DIODE                       1.50    1.54   -0.04 (VIOLATED)
+ANTENNA_129/DIODE                       1.50    1.54   -0.04 (VIOLATED)
+ANTENNA_127/DIODE                       1.50    1.54   -0.04 (VIOLATED)
+ANTENNA_125/DIODE                       1.50    1.54   -0.04 (VIOLATED)
+ANTENNA_126/DIODE                       1.50    1.54   -0.04 (VIOLATED)
+ANTENNA_128/DIODE                       1.50    1.54   -0.04 (VIOLATED)
+ANTENNA_131/DIODE                       1.50    1.54   -0.04 (VIOLATED)
+ANTENNA_133/DIODE                       1.50    1.54   -0.04 (VIOLATED)
+ANTENNA_134/DIODE                       1.50    1.54   -0.04 (VIOLATED)
+_20082_/Y                               1.50    1.53   -0.04 (VIOLATED)
+_26193_/Y                               1.50    1.53   -0.04 (VIOLATED)
+_26550_/A1                              1.50    1.53   -0.03 (VIOLATED)
+_26551_/B1                              1.50    1.53   -0.03 (VIOLATED)
+_26369_/C                               1.50    1.53   -0.03 (VIOLATED)
+_26370_/B1                              1.50    1.53   -0.03 (VIOLATED)
+_21964_/B1                              1.50    1.53   -0.03 (VIOLATED)
+_21068_/A                               1.50    1.53   -0.03 (VIOLATED)
+_21075_/A                               1.50    1.53   -0.03 (VIOLATED)
+_20083_/D_N                             1.50    1.53   -0.03 (VIOLATED)
+_21569_/A                               1.50    1.53   -0.03 (VIOLATED)
+_26195_/B1                              1.50    1.53   -0.03 (VIOLATED)
+_26196_/A1                              1.50    1.53   -0.03 (VIOLATED)
+_26312_/B                               1.50    1.53   -0.03 (VIOLATED)
+_26367_/Y                               1.50    1.53   -0.03 (VIOLATED)
+clkbuf_leaf_311_clk/A                   1.50    1.52   -0.02 (VIOLATED)
+clkbuf_leaf_312_clk/A                   1.50    1.52   -0.02 (VIOLATED)
+clkbuf_leaf_314_clk/A                   1.50    1.52   -0.02 (VIOLATED)
+clkbuf_leaf_313_clk/A                   1.50    1.52   -0.02 (VIOLATED)
+clkbuf_leaf_3_clk/A                     1.50    1.52   -0.02 (VIOLATED)
+clkbuf_leaf_2_clk/A                     1.50    1.52   -0.02 (VIOLATED)
+clkbuf_leaf_4_clk/A                     1.50    1.52   -0.02 (VIOLATED)
+clkbuf_leaf_6_clk/A                     1.50    1.52   -0.02 (VIOLATED)
+clkbuf_leaf_1_clk/A                     1.50    1.52   -0.02 (VIOLATED)
+clkbuf_leaf_5_clk/A                     1.50    1.52   -0.02 (VIOLATED)
+clkbuf_leaf_310_clk/A                   1.50    1.52   -0.02 (VIOLATED)
+clkbuf_leaf_307_clk/A                   1.50    1.52   -0.02 (VIOLATED)
+clkbuf_leaf_309_clk/A                   1.50    1.52   -0.02 (VIOLATED)
+clkbuf_leaf_308_clk/A                   1.50    1.52   -0.02 (VIOLATED)
+clkbuf_leaf_0_clk/A                     1.50    1.52   -0.02 (VIOLATED)
+clkbuf_5_0_0_clk/X                      1.50    1.52   -0.02 (VIOLATED)
+_26723_/Y                               1.50    1.51   -0.01 (VIOLATED)
+_26889_/A2                              1.50    1.51   -0.01 (VIOLATED)
+_26726_/A1                              1.50    1.51   -0.01 (VIOLATED)
+_26725_/B1                              1.50    1.51   -0.01 (VIOLATED)
+_26890_/C1                              1.50    1.51   -0.01 (VIOLATED)
+_23073_/Y                               1.49    1.49   -0.00 (VIOLATED)
+
+max capacitance
+
+Pin                                    Limit     Cap   Slack
+------------------------------------------------------------
+_30669_/Y                               0.13    0.16   -0.02 (VIOLATED)
+clkbuf_5_21_0_clk/X                     0.18    0.20   -0.02 (VIOLATED)
+_19659_/Y                               0.14    0.15   -0.01 (VIOLATED)
+_30796_/Y                               0.13    0.14   -0.01 (VIOLATED)
+_25997_/Y                               0.07    0.07   -0.01 (VIOLATED)
+clkbuf_5_0_0_clk/X                      0.18    0.19   -0.00 (VIOLATED)
+_20082_/Y                               0.07    0.07   -0.00 (VIOLATED)
+_26193_/Y                               0.07    0.07   -0.00 (VIOLATED)
+_26367_/Y                               0.09    0.09   -0.00 (VIOLATED)
+_26723_/Y                               0.07    0.07   -0.00 (VIOLATED)
+_23073_/Y                               0.09    0.09   -0.00 (VIOLATED)
+_26546_/Y                               0.07    0.07   -0.00 (VIOLATED)
+
+
+======================= Typical Corner ===================================
+
+
+======================= Fastest Corner ===================================
+
+
+===========================================================================
+max slew violation count 109
+max fanout violation count 0
+max cap violation count 12
+============================================================================

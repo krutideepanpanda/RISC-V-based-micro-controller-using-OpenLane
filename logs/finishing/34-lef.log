@@ -1,0 +1,1257 @@
+Netgen 1.5.219 compiled on Wed Feb  9 05:50:10 UTC 2022
+Warning: netgen command 'format' use fully-qualified name '::netgen::format'
+Warning: netgen command 'global' use fully-qualified name '::netgen::global'
+Generating JSON file result
+Reading netlist file /openlane/designs/picorv32_base/runs/RUN_2022.04.10_15.39.50/results/finishing/picorv32_base.spice
+Reading netlist file /openlane/designs/picorv32_base/runs/RUN_2022.04.10_15.39.50/tmp/finishing/31-powered_netlist.v
+Warning:  A case-insensitive file has been read and so the	verilog file must be treated case-insensitive to match.
+Creating placeholder cell definition for module sky130_fd_sc_hd__diode_2.
+Creating placeholder cell definition for module sky130_fd_sc_hd__decap_4.
+Creating placeholder cell definition for module sky130_fd_sc_hd__fill_1.
+Creating placeholder cell definition for module sky130_fd_sc_hd__fill_2.
+Creating placeholder cell definition for module sky130_fd_sc_hd__decap_8.
+Creating placeholder cell definition for module sky130_fd_sc_hd__decap_6.
+Creating placeholder cell definition for module sky130_fd_sc_hd__decap_3.
+Creating placeholder cell definition for module sky130_fd_sc_hd__decap_12.
+Creating placeholder cell definition for module sky130_fd_sc_hd__tapvpwrvgnd_1.
+Creating placeholder cell definition for module sky130_fd_sc_hd__clkbuf_4.
+Creating placeholder cell definition for module sky130_fd_sc_hd__or2_1.
+Creating placeholder cell definition for module sky130_fd_sc_hd__buf_4.
+Creating placeholder cell definition for module sky130_fd_sc_hd__clkbuf_2.
+Creating placeholder cell definition for module sky130_fd_sc_hd__nor2_4.
+Creating placeholder cell definition for module sky130_fd_sc_hd__o21ai_4.
+Creating placeholder cell definition for module sky130_fd_sc_hd__and2_1.
+Creating placeholder cell definition for module sky130_fd_sc_hd__mux2_1.
+Creating placeholder cell definition for module sky130_fd_sc_hd__and3b_2.
+Creating placeholder cell definition for module sky130_fd_sc_hd__inv_2.
+Creating placeholder cell definition for module sky130_fd_sc_hd__or2_4.
+Creating placeholder cell definition for module sky130_fd_sc_hd__a21oi_1.
+Creating placeholder cell definition for module sky130_fd_sc_hd__and3_1.
+Creating placeholder cell definition for module sky130_fd_sc_hd__nor2_1.
+Creating placeholder cell definition for module sky130_fd_sc_hd__buf_2.
+Creating placeholder cell definition for module sky130_fd_sc_hd__a22oi_4.
+Creating placeholder cell definition for module sky130_fd_sc_hd__nor2_8.
+Creating placeholder cell definition for module sky130_fd_sc_hd__or3b_4.
+Creating placeholder cell definition for module sky130_fd_sc_hd__mux2_4.
+Creating placeholder cell definition for module sky130_fd_sc_hd__a22o_1.
+Creating placeholder cell definition for module sky130_fd_sc_hd__clkinv_8.
+Creating placeholder cell definition for module sky130_fd_sc_hd__clkinv_2.
+Creating placeholder cell definition for module sky130_fd_sc_hd__clkbuf_1.
+Creating placeholder cell definition for module sky130_fd_sc_hd__nand2_2.
+Creating placeholder cell definition for module sky130_fd_sc_hd__o221a_1.
+Creating placeholder cell definition for module sky130_fd_sc_hd__a31o_1.
+Creating placeholder cell definition for module sky130_fd_sc_hd__or3b_2.
+Creating placeholder cell definition for module sky130_fd_sc_hd__nor2_2.
+Creating placeholder cell definition for module sky130_fd_sc_hd__o31a_1.
+Creating placeholder cell definition for module sky130_fd_sc_hd__or3b_1.
+Creating placeholder cell definition for module sky130_fd_sc_hd__buf_8.
+Creating placeholder cell definition for module sky130_fd_sc_hd__buf_6.
+Creating placeholder cell definition for module sky130_fd_sc_hd__buf_12.
+Creating placeholder cell definition for module sky130_fd_sc_hd__o2111a_1.
+Creating placeholder cell definition for module sky130_fd_sc_hd__o21ai_1.
+Creating placeholder cell definition for module sky130_fd_sc_hd__and3b_1.
+Creating placeholder cell definition for module sky130_fd_sc_hd__a221o_1.
+Creating placeholder cell definition for module sky130_fd_sc_hd__or3_2.
+Creating placeholder cell definition for module sky130_fd_sc_hd__and2_2.
+Creating placeholder cell definition for module sky130_fd_sc_hd__a21oi_4.
+Creating placeholder cell definition for module sky130_fd_sc_hd__nand2_1.
+Creating placeholder cell definition for module sky130_fd_sc_hd__or4_4.
+Creating placeholder cell definition for module sky130_fd_sc_hd__or4b_4.
+Creating placeholder cell definition for module sky130_fd_sc_hd__or4_1.
+Creating placeholder cell definition for module sky130_fd_sc_hd__or4_2.
+Creating placeholder cell definition for module sky130_fd_sc_hd__clkbuf_8.
+Creating placeholder cell definition for module sky130_fd_sc_hd__or3_1.
+Creating placeholder cell definition for module sky130_fd_sc_hd__nor4_4.
+Creating placeholder cell definition for module sky130_fd_sc_hd__and2b_1.
+Creating placeholder cell definition for module sky130_fd_sc_hd__or3_4.
+Creating placeholder cell definition for module sky130_fd_sc_hd__and4bb_1.
+Creating placeholder cell definition for module sky130_fd_sc_hd__or2_2.
+Creating placeholder cell definition for module sky130_fd_sc_hd__o21ba_1.
+Creating placeholder cell definition for module sky130_fd_sc_hd__a211o_1.
+Creating placeholder cell definition for module sky130_fd_sc_hd__and4b_1.
+Creating placeholder cell definition for module sky130_fd_sc_hd__and2b_2.
+Creating placeholder cell definition for module sky130_fd_sc_hd__and2b_4.
+Creating placeholder cell definition for module sky130_fd_sc_hd__or4b_2.
+Creating placeholder cell definition for module sky130_fd_sc_hd__a21o_1.
+Creating placeholder cell definition for module sky130_fd_sc_hd__and2_4.
+Creating placeholder cell definition for module sky130_fd_sc_hd__o32a_1.
+Creating placeholder cell definition for module sky130_fd_sc_hd__a32o_1.
+Creating placeholder cell definition for module sky130_fd_sc_hd__or4b_1.
+Creating placeholder cell definition for module sky130_fd_sc_hd__and4_1.
+Creating placeholder cell definition for module sky130_fd_sc_hd__o21a_1.
+Creating placeholder cell definition for module sky130_fd_sc_hd__nor3b_2.
+Creating placeholder cell definition for module sky130_fd_sc_hd__xor2_1.
+Creating placeholder cell definition for module sky130_fd_sc_hd__xnor2_1.
+Creating placeholder cell definition for module sky130_fd_sc_hd__a2111o_1.
+Creating placeholder cell definition for module sky130_fd_sc_hd__nor3_4.
+Creating placeholder cell definition for module sky130_fd_sc_hd__o211a_1.
+Creating placeholder cell definition for module sky130_fd_sc_hd__o31a_4.
+Creating placeholder cell definition for module sky130_fd_sc_hd__nand3_4.
+Creating placeholder cell definition for module sky130_fd_sc_hd__inv_6.
+Creating placeholder cell definition for module sky130_fd_sc_hd__clkbuf_16.
+Creating placeholder cell definition for module sky130_fd_sc_hd__a311o_1.
+Creating placeholder cell definition for module sky130_fd_sc_hd__nor3_1.
+Creating placeholder cell definition for module sky130_fd_sc_hd__mux4_1.
+Creating placeholder cell definition for module sky130_fd_sc_hd__or2b_1.
+Creating placeholder cell definition for module sky130_fd_sc_hd__o211ai_1.
+Creating placeholder cell definition for module sky130_fd_sc_hd__a31oi_1.
+Creating placeholder cell definition for module sky130_fd_sc_hd__o21a_4.
+Creating placeholder cell definition for module sky130_fd_sc_hd__a2bb2o_1.
+Creating placeholder cell definition for module sky130_fd_sc_hd__o31ai_2.
+Creating placeholder cell definition for module sky130_fd_sc_hd__a21bo_1.
+Creating placeholder cell definition for module sky130_fd_sc_hd__or2b_4.
+Creating placeholder cell definition for module sky130_fd_sc_hd__o22a_1.
+Creating placeholder cell definition for module sky130_fd_sc_hd__mux4_2.
+Creating placeholder cell definition for module sky130_fd_sc_hd__mux2_2.
+Creating placeholder cell definition for module sky130_fd_sc_hd__mux2_8.
+Creating placeholder cell definition for module sky130_fd_sc_hd__o31ai_4.
+Creating placeholder cell definition for module sky130_fd_sc_hd__o31a_2.
+Creating placeholder cell definition for module sky130_fd_sc_hd__a21oi_2.
+Creating placeholder cell definition for module sky130_fd_sc_hd__a211o_2.
+Creating placeholder cell definition for module sky130_fd_sc_hd__a31o_2.
+Creating placeholder cell definition for module sky130_fd_sc_hd__o22ai_1.
+Creating placeholder cell definition for module sky130_fd_sc_hd__and3_2.
+Creating placeholder cell definition for module sky130_fd_sc_hd__dlymetal6s2s_1.
+Creating placeholder cell definition for module sky130_fd_sc_hd__o31ai_1.
+Creating placeholder cell definition for module sky130_fd_sc_hd__xor2_2.
+Creating placeholder cell definition for module sky130_fd_sc_hd__o22ai_2.
+Creating placeholder cell definition for module sky130_fd_sc_hd__a2bb2o_2.
+Creating placeholder cell definition for module sky130_fd_sc_hd__nand3_1.
+Creating placeholder cell definition for module sky130_fd_sc_hd__a31o_4.
+Creating placeholder cell definition for module sky130_fd_sc_hd__o311a_1.
+Creating placeholder cell definition for module sky130_fd_sc_hd__nor4b_2.
+Creating placeholder cell definition for module sky130_fd_sc_hd__o21bai_4.
+Creating placeholder cell definition for module sky130_fd_sc_hd__nor4b_4.
+Creating placeholder cell definition for module sky130_fd_sc_hd__xnor2_2.
+Creating placeholder cell definition for module sky130_fd_sc_hd__a22o_2.
+Creating placeholder cell definition for module sky130_fd_sc_hd__a21o_2.
+Creating placeholder cell definition for module sky130_fd_sc_hd__a22o_4.
+Creating placeholder cell definition for module sky130_fd_sc_hd__a221o_4.
+Creating placeholder cell definition for module sky130_fd_sc_hd__a221o_2.
+Creating placeholder cell definition for module sky130_fd_sc_hd__o211ai_2.
+Creating placeholder cell definition for module sky130_fd_sc_hd__o21ai_2.
+Creating placeholder cell definition for module sky130_fd_sc_hd__a211oi_2.
+Creating placeholder cell definition for module sky130_fd_sc_hd__a211oi_4.
+Creating placeholder cell definition for module sky130_fd_sc_hd__a21o_4.
+Creating placeholder cell definition for module sky130_fd_sc_hd__a211oi_1.
+Creating placeholder cell definition for module sky130_fd_sc_hd__a21boi_1.
+Creating placeholder cell definition for module sky130_fd_sc_hd__o21bai_1.
+Creating placeholder cell definition for module sky130_fd_sc_hd__o311a_2.
+Creating placeholder cell definition for module sky130_fd_sc_hd__a22oi_1.
+Creating placeholder cell definition for module sky130_fd_sc_hd__o2bb2a_1.
+Creating placeholder cell definition for module sky130_fd_sc_hd__o211ai_4.
+Creating placeholder cell definition for module sky130_fd_sc_hd__nor4_1.
+Creating placeholder cell definition for module sky130_fd_sc_hd__o21a_2.
+Creating placeholder cell definition for module sky130_fd_sc_hd__xnor2_4.
+Creating placeholder cell definition for module sky130_fd_sc_hd__nand2_4.
+Creating placeholder cell definition for module sky130_fd_sc_hd__xor2_4.
+Creating placeholder cell definition for module sky130_fd_sc_hd__nand4_1.
+Creating placeholder cell definition for module sky130_fd_sc_hd__nand3_2.
+Creating placeholder cell definition for module sky130_fd_sc_hd__nand4_2.
+Creating placeholder cell definition for module sky130_fd_sc_hd__and4_4.
+Creating placeholder cell definition for module sky130_fd_sc_hd__and4_2.
+Creating placeholder cell definition for module sky130_fd_sc_hd__a211o_4.
+Creating placeholder cell definition for module sky130_fd_sc_hd__and4b_2.
+Creating placeholder cell definition for module sky130_fd_sc_hd__and4b_4.
+Creating placeholder cell definition for module sky130_fd_sc_hd__a32oi_2.
+Creating placeholder cell definition for module sky130_fd_sc_hd__a22oi_2.
+Creating placeholder cell definition for module sky130_fd_sc_hd__nand4_4.
+Creating placeholder cell definition for module sky130_fd_sc_hd__nand3b_2.
+Creating placeholder cell definition for module sky130_fd_sc_hd__nor3_2.
+Creating placeholder cell definition for module sky130_fd_sc_hd__nand3b_1.
+Creating placeholder cell definition for module sky130_fd_sc_hd__a31oi_2.
+Creating placeholder cell definition for module sky130_fd_sc_hd__and3_4.
+Creating placeholder cell definition for module sky130_fd_sc_hd__a41o_1.
+Creating placeholder cell definition for module sky130_fd_sc_hd__o21ba_2.
+Creating placeholder cell definition for module sky130_fd_sc_hd__o22ai_4.
+Creating placeholder cell definition for module sky130_fd_sc_hd__or4bb_4.
+Creating placeholder cell definition for module sky130_fd_sc_hd__nor3b_1.
+Creating placeholder cell definition for module sky130_fd_sc_hd__a2bb2oi_1.
+Creating placeholder cell definition for module sky130_fd_sc_hd__a32oi_4.
+Creating placeholder cell definition for module sky130_fd_sc_hd__or4bb_1.
+Creating placeholder cell definition for module sky130_fd_sc_hd__o211a_2.
+Creating placeholder cell definition for module sky130_fd_sc_hd__o41ai_4.
+Creating placeholder cell definition for module sky130_fd_sc_hd__o22a_2.
+Creating placeholder cell definition for module sky130_fd_sc_hd__a31oi_4.
+Creating placeholder cell definition for module sky130_fd_sc_hd__nor4_2.
+Creating placeholder cell definition for module sky130_fd_sc_hd__a221oi_4.
+Creating placeholder cell definition for module sky130_fd_sc_hd__a21bo_2.
+Creating placeholder cell definition for module sky130_fd_sc_hd__o22a_4.
+Creating placeholder cell definition for module sky130_fd_sc_hd__a32o_2.
+Creating placeholder cell definition for module sky130_fd_sc_hd__and3b_4.
+Creating placeholder cell definition for module sky130_fd_sc_hd__o211a_4.
+Creating placeholder cell definition for module sky130_fd_sc_hd__inv_4.
+Creating placeholder cell definition for module sky130_fd_sc_hd__clkinv_4.
+Creating placeholder cell definition for module sky130_fd_sc_hd__a2bb2oi_2.
+Creating placeholder cell definition for module sky130_fd_sc_hd__or4bb_2.
+Creating placeholder cell definition for module sky130_fd_sc_hd__o21ba_4.
+Creating placeholder cell definition for module sky130_fd_sc_hd__nor3b_4.
+Creating placeholder cell definition for module sky130_fd_sc_hd__a21boi_2.
+Creating placeholder cell definition for module sky130_fd_sc_hd__nand3b_4.
+Creating placeholder cell definition for module sky130_fd_sc_hd__o2bb2ai_2.
+Creating placeholder cell definition for module sky130_fd_sc_hd__o2bb2ai_1.
+Creating placeholder cell definition for module sky130_fd_sc_hd__a32o_4.
+Creating placeholder cell definition for module sky130_fd_sc_hd__o21bai_2.
+Creating placeholder cell definition for module sky130_fd_sc_hd__o41a_4.
+Creating placeholder cell definition for module sky130_fd_sc_hd__nand2b_1.
+Creating placeholder cell definition for module sky130_fd_sc_hd__o221ai_2.
+Creating placeholder cell definition for module sky130_fd_sc_hd__o41a_1.
+Creating placeholder cell definition for module sky130_fd_sc_hd__o2bb2a_2.
+Creating placeholder cell definition for module sky130_fd_sc_hd__a2111oi_1.
+Creating placeholder cell definition for module sky130_fd_sc_hd__a221oi_1.
+Creating placeholder cell definition for module sky130_fd_sc_hd__nand2_8.
+Creating placeholder cell definition for module sky130_fd_sc_hd__nand2b_2.
+Creating placeholder cell definition for module sky130_fd_sc_hd__and4bb_4.
+Creating placeholder cell definition for module sky130_fd_sc_hd__dfxtp_1.
+Creating placeholder cell definition for module sky130_fd_sc_hd__dfxtp_2.
+Creating placeholder cell definition for module sky130_fd_sc_hd__dfxtp_4.
+Creating placeholder cell definition for module sky130_fd_sc_hd__conb_1.
+Creating placeholder cell definition for module sky130_fd_sc_hd__clkdlybuf4s25_1.
+Creating placeholder cell definition for module sky130_fd_sc_hd__clkdlybuf4s50_1.
+Reading setup file /home/rahul/Documents/OpenLane/pdks/sky130A/libs.tech/netgen/sky130A_setup.tcl
+Comparison output logged to file /openlane/designs/picorv32_base/runs/RUN_2022.04.10_15.39.50/logs/finishing/34-picorv32_base.lef.log
+Logging to file "/openlane/designs/picorv32_base/runs/RUN_2022.04.10_15.39.50/logs/finishing/34-picorv32_base.lef.log" enabled
+Circuit sky130_fd_sc_hd__and2_1 contains no devices.
+Circuit sky130_fd_sc_hd__decap_12 contains no devices.
+Circuit sky130_fd_sc_hd__fill_2 contains no devices.
+Circuit sky130_fd_sc_hd__diode_2 contains no devices.
+Circuit sky130_fd_sc_hd__decap_4 contains no devices.
+Circuit sky130_fd_sc_hd__dfxtp_1 contains no devices.
+Circuit sky130_fd_sc_hd__decap_6 contains no devices.
+Circuit sky130_fd_sc_hd__o22a_1 contains no devices.
+Circuit sky130_fd_sc_hd__decap_8 contains no devices.
+Circuit sky130_fd_sc_hd__mux2_1 contains no devices.
+Circuit sky130_fd_sc_hd__o311a_1 contains no devices.
+Circuit sky130_fd_sc_hd__mux4_1 contains no devices.
+Circuit sky130_fd_sc_hd__buf_2 contains no devices.
+Circuit sky130_fd_sc_hd__fill_1 contains no devices.
+Circuit sky130_fd_sc_hd__xnor2_1 contains no devices.
+Circuit sky130_fd_sc_hd__a31o_1 contains no devices.
+Circuit sky130_fd_sc_hd__and2b_1 contains no devices.
+Circuit sky130_fd_sc_hd__xor2_1 contains no devices.
+Circuit sky130_fd_sc_hd__xor2_2 contains no devices.
+Circuit sky130_fd_sc_hd__clkbuf_1 contains no devices.
+Circuit sky130_fd_sc_hd__nand2_1 contains no devices.
+Circuit sky130_fd_sc_hd__or2_1 contains no devices.
+Circuit sky130_fd_sc_hd__a22o_1 contains no devices.
+Circuit sky130_fd_sc_hd__clkbuf_4 contains no devices.
+Circuit sky130_fd_sc_hd__a21o_1 contains no devices.
+Circuit sky130_fd_sc_hd__o21bai_1 contains no devices.
+Circuit sky130_fd_sc_hd__mux4_2 contains no devices.
+Circuit sky130_fd_sc_hd__a211o_1 contains no devices.
+Circuit sky130_fd_sc_hd__a21oi_1 contains no devices.
+Circuit sky130_fd_sc_hd__clkbuf_2 contains no devices.
+Circuit sky130_fd_sc_hd__nor2_1 contains no devices.
+Circuit sky130_fd_sc_hd__buf_4 contains no devices.
+Circuit sky130_fd_sc_hd__o211ai_1 contains no devices.
+Circuit sky130_fd_sc_hd__decap_3 contains no devices.
+Circuit sky130_fd_sc_hd__a22oi_1 contains no devices.
+Circuit sky130_fd_sc_hd__or3_2 contains no devices.
+Circuit sky130_fd_sc_hd__tapvpwrvgnd_1 contains no devices.
+Circuit sky130_fd_sc_hd__or2_4 contains no devices.
+Circuit sky130_fd_sc_hd__nor3_2 contains no devices.
+Circuit sky130_fd_sc_hd__o21ai_2 contains no devices.
+Circuit sky130_fd_sc_hd__buf_8 contains no devices.
+Circuit sky130_fd_sc_hd__a211o_2 contains no devices.
+Circuit sky130_fd_sc_hd__o21a_1 contains no devices.
+Circuit sky130_fd_sc_hd__dfxtp_2 contains no devices.
+Circuit sky130_fd_sc_hd__and4_1 contains no devices.
+Circuit sky130_fd_sc_hd__dfxtp_4 contains no devices.
+Circuit sky130_fd_sc_hd__o21ba_1 contains no devices.
+Circuit sky130_fd_sc_hd__a221o_4 contains no devices.
+Circuit sky130_fd_sc_hd__or3_1 contains no devices.
+Circuit sky130_fd_sc_hd__and2b_2 contains no devices.
+Circuit sky130_fd_sc_hd__o31ai_1 contains no devices.
+Circuit sky130_fd_sc_hd__a21oi_2 contains no devices.
+Circuit sky130_fd_sc_hd__dlymetal6s2s_1 contains no devices.
+Circuit sky130_fd_sc_hd__o21ai_1 contains no devices.
+Circuit sky130_fd_sc_hd__a221o_1 contains no devices.
+Circuit sky130_fd_sc_hd__buf_6 contains no devices.
+Circuit sky130_fd_sc_hd__or2b_1 contains no devices.
+Circuit sky130_fd_sc_hd__and3_1 contains no devices.
+Circuit sky130_fd_sc_hd__a22oi_2 contains no devices.
+Circuit sky130_fd_sc_hd__o211a_2 contains no devices.
+Circuit sky130_fd_sc_hd__or3b_2 contains no devices.
+Circuit sky130_fd_sc_hd__xnor2_4 contains no devices.
+Circuit sky130_fd_sc_hd__nor2_2 contains no devices.
+Circuit sky130_fd_sc_hd__and3_4 contains no devices.
+Circuit sky130_fd_sc_hd__xnor2_2 contains no devices.
+Circuit sky130_fd_sc_hd__a21bo_1 contains no devices.
+Circuit sky130_fd_sc_hd__nand3_1 contains no devices.
+Circuit sky130_fd_sc_hd__or4_1 contains no devices.
+Circuit sky130_fd_sc_hd__inv_2 contains no devices.
+Circuit sky130_fd_sc_hd__a2bb2o_1 contains no devices.
+Circuit sky130_fd_sc_hd__mux2_2 contains no devices.
+Circuit sky130_fd_sc_hd__a22o_2 contains no devices.
+Circuit sky130_fd_sc_hd__o21bai_4 contains no devices.
+Circuit sky130_fd_sc_hd__a31oi_2 contains no devices.
+Circuit sky130_fd_sc_hd__conb_1 contains no devices.
+Circuit sky130_fd_sc_hd__a21o_2 contains no devices.
+Circuit sky130_fd_sc_hd__a21oi_4 contains no devices.
+Circuit sky130_fd_sc_hd__a211oi_1 contains no devices.
+Circuit sky130_fd_sc_hd__clkbuf_16 contains no devices.
+Circuit sky130_fd_sc_hd__o211ai_4 contains no devices.
+Circuit sky130_fd_sc_hd__nor3_1 contains no devices.
+Circuit sky130_fd_sc_hd__nand2_2 contains no devices.
+Circuit sky130_fd_sc_hd__and2b_4 contains no devices.
+Circuit sky130_fd_sc_hd__o22ai_2 contains no devices.
+Circuit sky130_fd_sc_hd__clkinv_2 contains no devices.
+Circuit sky130_fd_sc_hd__clkbuf_8 contains no devices.
+Circuit sky130_fd_sc_hd__nor3_4 contains no devices.
+Circuit sky130_fd_sc_hd__nor4_2 contains no devices.
+Circuit sky130_fd_sc_hd__and3b_1 contains no devices.
+Circuit sky130_fd_sc_hd__o211ai_2 contains no devices.
+Circuit sky130_fd_sc_hd__and3_2 contains no devices.
+Circuit sky130_fd_sc_hd__a211o_4 contains no devices.
+Circuit sky130_fd_sc_hd__xor2_4 contains no devices.
+Circuit sky130_fd_sc_hd__buf_12 contains no devices.
+Circuit sky130_fd_sc_hd__o221a_1 contains no devices.
+Circuit sky130_fd_sc_hd__a32o_1 contains no devices.
+Circuit sky130_fd_sc_hd__and4b_4 contains no devices.
+Circuit sky130_fd_sc_hd__o211a_1 contains no devices.
+Circuit sky130_fd_sc_hd__a221oi_1 contains no devices.
+Circuit sky130_fd_sc_hd__or2_2 contains no devices.
+Circuit sky130_fd_sc_hd__nor4_1 contains no devices.
+Circuit sky130_fd_sc_hd__nand3_2 contains no devices.
+Circuit sky130_fd_sc_hd__a31oi_4 contains no devices.
+Circuit sky130_fd_sc_hd__o31a_2 contains no devices.
+Circuit sky130_fd_sc_hd__a221o_2 contains no devices.
+Circuit sky130_fd_sc_hd__a31o_2 contains no devices.
+Circuit sky130_fd_sc_hd__or4bb_2 contains no devices.
+Circuit sky130_fd_sc_hd__a22oi_4 contains no devices.
+Circuit sky130_fd_sc_hd__a211oi_2 contains no devices.
+Circuit sky130_fd_sc_hd__nor4_4 contains no devices.
+Circuit sky130_fd_sc_hd__a21boi_1 contains no devices.
+Circuit sky130_fd_sc_hd__o31a_1 contains no devices.
+Circuit sky130_fd_sc_hd__o21ai_4 contains no devices.
+Circuit sky130_fd_sc_hd__a21boi_2 contains no devices.
+Circuit sky130_fd_sc_hd__and4bb_1 contains no devices.
+Circuit sky130_fd_sc_hd__or4b_4 contains no devices.
+Circuit sky130_fd_sc_hd__a21o_4 contains no devices.
+Circuit sky130_fd_sc_hd__o21a_2 contains no devices.
+Circuit sky130_fd_sc_hd__or3b_4 contains no devices.
+Circuit sky130_fd_sc_hd__and2_2 contains no devices.
+Circuit sky130_fd_sc_hd__or4bb_4 contains no devices.
+Circuit sky130_fd_sc_hd__nand2_4 contains no devices.
+Circuit sky130_fd_sc_hd__o2bb2a_1 contains no devices.
+Circuit sky130_fd_sc_hd__or4_2 contains no devices.
+Circuit sky130_fd_sc_hd__a22o_4 contains no devices.
+Circuit sky130_fd_sc_hd__or3b_1 contains no devices.
+Circuit sky130_fd_sc_hd__clkdlybuf4s25_1 contains no devices.
+Circuit sky130_fd_sc_hd__and4b_1 contains no devices.
+Circuit sky130_fd_sc_hd__a211oi_4 contains no devices.
+Circuit sky130_fd_sc_hd__o31a_4 contains no devices.
+Circuit sky130_fd_sc_hd__a2111o_1 contains no devices.
+Circuit sky130_fd_sc_hd__nor2_4 contains no devices.
+Circuit sky130_fd_sc_hd__a221oi_4 contains no devices.
+Circuit sky130_fd_sc_hd__o2bb2ai_1 contains no devices.
+Circuit sky130_fd_sc_hd__o311a_2 contains no devices.
+Circuit sky130_fd_sc_hd__or3_4 contains no devices.
+Circuit sky130_fd_sc_hd__nand4_4 contains no devices.
+Circuit sky130_fd_sc_hd__mux2_8 contains no devices.
+Circuit sky130_fd_sc_hd__and4b_2 contains no devices.
+Circuit sky130_fd_sc_hd__nor3b_2 contains no devices.
+Circuit sky130_fd_sc_hd__or4_4 contains no devices.
+Circuit sky130_fd_sc_hd__a41o_1 contains no devices.
+Circuit sky130_fd_sc_hd__mux2_4 contains no devices.
+Circuit sky130_fd_sc_hd__and4_4 contains no devices.
+Circuit sky130_fd_sc_hd__a21bo_2 contains no devices.
+Circuit sky130_fd_sc_hd__or4bb_1 contains no devices.
+Circuit sky130_fd_sc_hd__nand4_1 contains no devices.
+Circuit sky130_fd_sc_hd__and4_2 contains no devices.
+Circuit sky130_fd_sc_hd__and2_4 contains no devices.
+Circuit sky130_fd_sc_hd__o211a_4 contains no devices.
+Circuit sky130_fd_sc_hd__or4b_1 contains no devices.
+Circuit sky130_fd_sc_hd__a311o_1 contains no devices.
+Circuit sky130_fd_sc_hd__o31ai_4 contains no devices.
+Circuit sky130_fd_sc_hd__o32a_1 contains no devices.
+Circuit sky130_fd_sc_hd__nor2_8 contains no devices.
+Circuit sky130_fd_sc_hd__a2111oi_1 contains no devices.
+Circuit sky130_fd_sc_hd__a31oi_1 contains no devices.
+Circuit sky130_fd_sc_hd__nand4_2 contains no devices.
+Circuit sky130_fd_sc_hd__o22ai_4 contains no devices.
+Circuit sky130_fd_sc_hd__o21ba_2 contains no devices.
+Circuit sky130_fd_sc_hd__nand3b_2 contains no devices.
+Circuit sky130_fd_sc_hd__a32oi_4 contains no devices.
+Circuit sky130_fd_sc_hd__o21bai_2 contains no devices.
+Circuit sky130_fd_sc_hd__nand3b_1 contains no devices.
+Circuit sky130_fd_sc_hd__or2b_4 contains no devices.
+Circuit sky130_fd_sc_hd__clkdlybuf4s50_1 contains no devices.
+Circuit sky130_fd_sc_hd__o41a_4 contains no devices.
+Circuit sky130_fd_sc_hd__o2111a_1 contains no devices.
+Circuit sky130_fd_sc_hd__o22ai_1 contains no devices.
+Circuit sky130_fd_sc_hd__and3b_2 contains no devices.
+Circuit sky130_fd_sc_hd__clkinv_8 contains no devices.
+Circuit sky130_fd_sc_hd__o22a_4 contains no devices.
+Circuit sky130_fd_sc_hd__or4b_2 contains no devices.
+Circuit sky130_fd_sc_hd__a2bb2o_2 contains no devices.
+Circuit sky130_fd_sc_hd__nand2_8 contains no devices.
+Circuit sky130_fd_sc_hd__o22a_2 contains no devices.
+Circuit sky130_fd_sc_hd__o31ai_2 contains no devices.
+Circuit sky130_fd_sc_hd__a32o_2 contains no devices.
+Circuit sky130_fd_sc_hd__inv_4 contains no devices.
+Circuit sky130_fd_sc_hd__a31o_4 contains no devices.
+Circuit sky130_fd_sc_hd__a32oi_2 contains no devices.
+Circuit sky130_fd_sc_hd__nand3_4 contains no devices.
+Circuit sky130_fd_sc_hd__nand2b_2 contains no devices.
+Circuit sky130_fd_sc_hd__nand3b_4 contains no devices.
+Circuit sky130_fd_sc_hd__and3b_4 contains no devices.
+Circuit sky130_fd_sc_hd__nor4b_2 contains no devices.
+Circuit sky130_fd_sc_hd__o41a_1 contains no devices.
+Circuit sky130_fd_sc_hd__a2bb2oi_1 contains no devices.
+Circuit sky130_fd_sc_hd__and4bb_4 contains no devices.
+Circuit sky130_fd_sc_hd__o2bb2a_2 contains no devices.
+Circuit sky130_fd_sc_hd__o2bb2ai_2 contains no devices.
+Circuit sky130_fd_sc_hd__nor3b_1 contains no devices.
+Circuit sky130_fd_sc_hd__clkinv_4 contains no devices.
+Circuit sky130_fd_sc_hd__nand2b_1 contains no devices.
+Circuit sky130_fd_sc_hd__nor3b_4 contains no devices.
+Circuit sky130_fd_sc_hd__inv_6 contains no devices.
+Circuit sky130_fd_sc_hd__o21ba_4 contains no devices.
+Circuit sky130_fd_sc_hd__a2bb2oi_2 contains no devices.
+Circuit sky130_fd_sc_hd__a32o_4 contains no devices.
+Circuit sky130_fd_sc_hd__o21a_4 contains no devices.
+Circuit sky130_fd_sc_hd__o41ai_4 contains no devices.
+Circuit sky130_fd_sc_hd__o221ai_2 contains no devices.
+Circuit sky130_fd_sc_hd__nor4b_4 contains no devices.
+
+Contents of circuit 1:  Circuit: 'picorv32_base'
+Circuit picorv32_base contains 70107 device instances.
+  Class: sky130_fd_sc_hd__a41o_1 instances:   7
+  Class: sky130_fd_sc_hd__clkdlybuf4s25_1 instances:  15
+  Class: sky130_fd_sc_hd__a31o_1 instances: 280
+  Class: sky130_fd_sc_hd__a31o_2 instances:  16
+  Class: sky130_fd_sc_hd__a31o_4 instances:   4
+  Class: sky130_fd_sc_hd__a21o_1 instances: 550
+  Class: sky130_fd_sc_hd__a21o_2 instances:  37
+  Class: sky130_fd_sc_hd__a21o_4 instances:  11
+  Class: sky130_fd_sc_hd__a2bb2oi_1 instances:   2
+  Class: sky130_fd_sc_hd__a2bb2oi_2 instances:   1
+  Class: sky130_fd_sc_hd__clkbuf_16 instances: 355
+  Class: sky130_fd_sc_hd__dfxtp_1 instances: 1665
+  Class: sky130_fd_sc_hd__a32oi_2 instances:   1
+  Class: sky130_fd_sc_hd__dfxtp_2 instances: 239
+  Class: sky130_fd_sc_hd__a32oi_4 instances:   1
+  Class: sky130_fd_sc_hd__o31ai_1 instances:   7
+  Class: sky130_fd_sc_hd__dfxtp_4 instances: 236
+  Class: sky130_fd_sc_hd__o31ai_2 instances:   5
+  Class: sky130_fd_sc_hd__o31ai_4 instances:   3
+  Class: sky130_fd_sc_hd__or4_1 instances:  78
+  Class: sky130_fd_sc_hd__or4_2 instances:  20
+  Class: sky130_fd_sc_hd__or4_4 instances:  12
+  Class: sky130_fd_sc_hd__a31oi_1 instances:   5
+  Class: sky130_fd_sc_hd__a31oi_2 instances:   6
+  Class: sky130_fd_sc_hd__nand4_1 instances:  29
+  Class: sky130_fd_sc_hd__nand4_2 instances:  19
+  Class: sky130_fd_sc_hd__a31oi_4 instances:   8
+  Class: sky130_fd_sc_hd__buf_2 instances: 617
+  Class: sky130_fd_sc_hd__nand4_4 instances:  13
+  Class: sky130_fd_sc_hd__buf_4 instances: 788
+  Class: sky130_fd_sc_hd__buf_6 instances: 266
+  Class: sky130_fd_sc_hd__buf_8 instances: 136
+  Class: sky130_fd_sc_hd__a2bb2o_1 instances:  84
+  Class: sky130_fd_sc_hd__a2bb2o_2 instances:   1
+  Class: sky130_fd_sc_hd__and3b_1 instances:  33
+  Class: sky130_fd_sc_hd__and3b_2 instances:   5
+  Class: sky130_fd_sc_hd__and3b_4 instances:   1
+  Class: sky130_fd_sc_hd__xor2_1 instances: 198
+  Class: sky130_fd_sc_hd__xor2_2 instances:  34
+  Class: sky130_fd_sc_hd__xor2_4 instances:  15
+  Class: sky130_fd_sc_hd__o221ai_2 instances:   1
+  Class: sky130_fd_sc_hd__mux4_1 instances: 224
+  Class: sky130_fd_sc_hd__mux4_2 instances:  56
+  Class: sky130_fd_sc_hd__and4_1 instances: 221
+  Class: sky130_fd_sc_hd__and4_2 instances:  36
+  Class: sky130_fd_sc_hd__and4_4 instances:   5
+  Class: sky130_fd_sc_hd__inv_2 instances: 225
+  Class: sky130_fd_sc_hd__inv_4 instances:   3
+  Class: sky130_fd_sc_hd__inv_6 instances:   1
+  Class: sky130_fd_sc_hd__clkbuf_1 instances: 1871
+  Class: sky130_fd_sc_hd__clkbuf_2 instances: 514
+  Class: sky130_fd_sc_hd__clkbuf_4 instances: 602
+  Class: sky130_fd_sc_hd__clkbuf_8 instances:  51
+  Class: sky130_fd_sc_hd__or3_1 instances: 207
+  Class: sky130_fd_sc_hd__or3_2 instances:  66
+  Class: sky130_fd_sc_hd__or3_4 instances:  13
+  Class: sky130_fd_sc_hd__nand3_1 instances: 152
+  Class: sky130_fd_sc_hd__nand3_2 instances:  46
+  Class: sky130_fd_sc_hd__nand3_4 instances:   8
+  Class: sky130_fd_sc_hd__o21ba_1 instances: 114
+  Class: sky130_fd_sc_hd__o21ba_2 instances:  10
+  Class: sky130_fd_sc_hd__o21ba_4 instances:   1
+  Class: sky130_fd_sc_hd__and2b_1 instances: 194
+  Class: sky130_fd_sc_hd__conb_1 instances:  41
+  Class: sky130_fd_sc_hd__and2b_2 instances:  30
+  Class: sky130_fd_sc_hd__and2b_4 instances:   9
+  Class: sky130_fd_sc_hd__a21boi_1 instances:  14
+  Class: sky130_fd_sc_hd__a21boi_2 instances:   2
+  Class: sky130_fd_sc_hd__buf_12 instances:  67
+  Class: sky130_fd_sc_hd__a21bo_1 instances:  81
+  Class: sky130_fd_sc_hd__a21bo_2 instances:   6
+  Class: sky130_fd_sc_hd__a221oi_1 instances:  12
+  Class: sky130_fd_sc_hd__a221oi_4 instances:   2
+  Class: sky130_fd_sc_hd__clkinv_2 instances:  37
+  Class: sky130_fd_sc_hd__clkinv_4 instances:   2
+  Class: sky130_fd_sc_hd__clkinv_8 instances:   2
+  Class: sky130_fd_sc_hd__and3_1 instances: 485
+  Class: sky130_fd_sc_hd__and3_2 instances:  39
+  Class: sky130_fd_sc_hd__and3_4 instances:   5
+  Class: sky130_fd_sc_hd__clkdlybuf4s50_1 instances:   2
+  Class: sky130_fd_sc_hd__a2111o_1 instances:   1
+  Class: sky130_fd_sc_hd__decap_3 instances: 2255
+  Class: sky130_fd_sc_hd__decap_4 instances: 12712
+  Class: sky130_fd_sc_hd__decap_6 instances: 3989
+  Class: sky130_fd_sc_hd__decap_8 instances: 5346
+  Class: sky130_fd_sc_hd__or2_1 instances: 576
+  Class: sky130_fd_sc_hd__or2_2 instances:  51
+  Class: sky130_fd_sc_hd__a2111oi_1 instances:   1
+  Class: sky130_fd_sc_hd__or2_4 instances:  18
+  Class: sky130_fd_sc_hd__nand2_1 instances: 1111
+  Class: sky130_fd_sc_hd__nand2_2 instances: 106
+  Class: sky130_fd_sc_hd__nand2_4 instances:  23
+  Class: sky130_fd_sc_hd__nor4b_2 instances:   1
+  Class: sky130_fd_sc_hd__nand2_8 instances:   1
+  Class: sky130_fd_sc_hd__nor4b_4 instances:   1
+  Class: sky130_fd_sc_hd__nand3b_1 instances:   9
+  Class: sky130_fd_sc_hd__nand3b_2 instances:   9
+  Class: sky130_fd_sc_hd__mux2_1 instances: 2146
+  Class: sky130_fd_sc_hd__nand3b_4 instances:   1
+  Class: sky130_fd_sc_hd__mux2_2 instances:  59
+  Class: sky130_fd_sc_hd__mux2_4 instances:  22
+  Class: sky130_fd_sc_hd__mux2_8 instances:  12
+  Class: sky130_fd_sc_hd__o2bb2ai_1 instances:  13
+  Class: sky130_fd_sc_hd__o2bb2ai_2 instances:   2
+  Class: sky130_fd_sc_hd__a211oi_1 instances:  56
+  Class: sky130_fd_sc_hd__and2_1 instances: 577
+  Class: sky130_fd_sc_hd__and2_2 instances:  31
+  Class: sky130_fd_sc_hd__a211oi_2 instances:  53
+  Class: sky130_fd_sc_hd__and2_4 instances:   9
+  Class: sky130_fd_sc_hd__a211oi_4 instances:  60
+  Class: sky130_fd_sc_hd__or4b_1 instances:  14
+  Class: sky130_fd_sc_hd__or4b_2 instances:   4
+  Class: sky130_fd_sc_hd__or4b_4 instances:   5
+  Class: sky130_fd_sc_hd__nor4_1 instances:   7
+  Class: sky130_fd_sc_hd__nor4_2 instances:  11
+  Class: sky130_fd_sc_hd__nor4_4 instances:  22
+  Class: sky130_fd_sc_hd__o32a_1 instances:  18
+  Class: sky130_fd_sc_hd__o22a_1 instances: 156
+  Class: sky130_fd_sc_hd__o22a_2 instances:   4
+  Class: sky130_fd_sc_hd__o22a_4 instances:   4
+  Class: sky130_fd_sc_hd__xnor2_1 instances: 592
+  Class: sky130_fd_sc_hd__xnor2_2 instances: 130
+  Class: sky130_fd_sc_hd__xnor2_4 instances:  40
+  Class: sky130_fd_sc_hd__nor3b_1 instances:   1
+  Class: sky130_fd_sc_hd__nor3b_2 instances:   2
+  Class: sky130_fd_sc_hd__nor3b_4 instances:   2
+  Class: sky130_fd_sc_hd__o221a_1 instances:  50
+  Class: sky130_fd_sc_hd__o21bai_1 instances:  32
+  Class: sky130_fd_sc_hd__o21bai_2 instances:   1
+  Class: sky130_fd_sc_hd__o21bai_4 instances:   3
+  Class: sky130_fd_sc_hd__o211a_1 instances: 231
+  Class: sky130_fd_sc_hd__o211a_2 instances:  27
+  Class: sky130_fd_sc_hd__o211a_4 instances:   6
+  Class: sky130_fd_sc_hd__nand2b_1 instances:   1
+  Class: sky130_fd_sc_hd__nand2b_2 instances:   1
+  Class: sky130_fd_sc_hd__diode_2 instances: 1447
+  Class: sky130_fd_sc_hd__a221o_1 instances:  87
+  Class: sky130_fd_sc_hd__a221o_2 instances:  27
+  Class: sky130_fd_sc_hd__a221o_4 instances:  31
+  Class: sky130_fd_sc_hd__a211o_1 instances: 310
+  Class: sky130_fd_sc_hd__a211o_2 instances:  33
+  Class: sky130_fd_sc_hd__a211o_4 instances:   5
+  Class: sky130_fd_sc_hd__o2111a_1 instances:   5
+  Class: sky130_fd_sc_hd__or3b_1 instances:  42
+  Class: sky130_fd_sc_hd__or3b_2 instances:   6
+  Class: sky130_fd_sc_hd__or3b_4 instances:  59
+  Class: sky130_fd_sc_hd__dlymetal6s2s_1 instances:  67
+  Class: sky130_fd_sc_hd__or4bb_1 instances:   4
+  Class: sky130_fd_sc_hd__or4bb_2 instances:   2
+  Class: sky130_fd_sc_hd__nor3_1 instances: 113
+  Class: sky130_fd_sc_hd__nor3_2 instances:  33
+  Class: sky130_fd_sc_hd__or4bb_4 instances:   8
+  Class: sky130_fd_sc_hd__nor3_4 instances:  21
+  Class: sky130_fd_sc_hd__a32o_1 instances: 117
+  Class: sky130_fd_sc_hd__a32o_2 instances:   1
+  Class: sky130_fd_sc_hd__a32o_4 instances:   1
+  Class: sky130_fd_sc_hd__o41a_1 instances:   1
+  Class: sky130_fd_sc_hd__o41a_4 instances:   1
+  Class: sky130_fd_sc_hd__a22o_1 instances: 413
+  Class: sky130_fd_sc_hd__a22o_2 instances:  30
+  Class: sky130_fd_sc_hd__a22o_4 instances:  22
+  Class: sky130_fd_sc_hd__o31a_1 instances:  28
+  Class: sky130_fd_sc_hd__o31a_2 instances:  18
+  Class: sky130_fd_sc_hd__o31a_4 instances:   3
+  Class: sky130_fd_sc_hd__o2bb2a_1 instances: 111
+  Class: sky130_fd_sc_hd__o2bb2a_2 instances:   5
+  Class: sky130_fd_sc_hd__o21a_1 instances: 290
+  Class: sky130_fd_sc_hd__o21a_2 instances:  11
+  Class: sky130_fd_sc_hd__o21a_4 instances:   2
+  Class: sky130_fd_sc_hd__o41ai_4 instances:   1
+  Class: sky130_fd_sc_hd__o311a_1 instances:  28
+  Class: sky130_fd_sc_hd__o311a_2 instances:   6
+  Class: sky130_fd_sc_hd__o22ai_1 instances:   7
+  Class: sky130_fd_sc_hd__o22ai_2 instances:   4
+  Class: sky130_fd_sc_hd__o22ai_4 instances:   5
+  Class: sky130_fd_sc_hd__a22oi_1 instances:  89
+  Class: sky130_fd_sc_hd__a22oi_2 instances:  77
+  Class: sky130_fd_sc_hd__and4b_1 instances:  32
+  Class: sky130_fd_sc_hd__and4b_2 instances:   5
+  Class: sky130_fd_sc_hd__a22oi_4 instances:  28
+  Class: sky130_fd_sc_hd__o21ai_1 instances: 357
+  Class: sky130_fd_sc_hd__o21ai_2 instances:  70
+  Class: sky130_fd_sc_hd__tapvpwrvgnd_1 instances: 6552
+  Class: sky130_fd_sc_hd__and4b_4 instances:   8
+  Class: sky130_fd_sc_hd__o21ai_4 instances:  25
+  Class: sky130_fd_sc_hd__a21oi_1 instances: 648
+  Class: sky130_fd_sc_hd__a21oi_2 instances:  99
+  Class: sky130_fd_sc_hd__a311o_1 instances:   5
+  Class: sky130_fd_sc_hd__a21oi_4 instances:  56
+  Class: sky130_fd_sc_hd__fill_1 instances: 6759
+  Class: sky130_fd_sc_hd__fill_2 instances: 4069
+  Class: sky130_fd_sc_hd__o211ai_1 instances:  92
+  Class: sky130_fd_sc_hd__o211ai_2 instances:  59
+  Class: sky130_fd_sc_hd__decap_12 instances: 4298
+  Class: sky130_fd_sc_hd__o211ai_4 instances:  61
+  Class: sky130_fd_sc_hd__or2b_1 instances: 187
+  Class: sky130_fd_sc_hd__and4bb_1 instances:  39
+  Class: sky130_fd_sc_hd__or2b_4 instances:   5
+  Class: sky130_fd_sc_hd__and4bb_4 instances:   1
+  Class: sky130_fd_sc_hd__nor2_1 instances: 1066
+  Class: sky130_fd_sc_hd__nor2_2 instances: 107
+  Class: sky130_fd_sc_hd__nor2_4 instances:  24
+  Class: sky130_fd_sc_hd__nor2_8 instances:   9
+Circuit contains 22825 nets.
+Contents of circuit 2:  Circuit: 'picorv32_base'
+Circuit picorv32_base contains 70107 device instances.
+  Class: sky130_fd_sc_hd__a41o_1 instances:   7
+  Class: sky130_fd_sc_hd__clkdlybuf4s25_1 instances:  15
+  Class: sky130_fd_sc_hd__a31o_1 instances: 280
+  Class: sky130_fd_sc_hd__a31o_2 instances:  16
+  Class: sky130_fd_sc_hd__a31o_4 instances:   4
+  Class: sky130_fd_sc_hd__a21o_1 instances: 550
+  Class: sky130_fd_sc_hd__a21o_2 instances:  37
+  Class: sky130_fd_sc_hd__a21o_4 instances:  11
+  Class: sky130_fd_sc_hd__a2bb2oi_1 instances:   2
+  Class: sky130_fd_sc_hd__a2bb2oi_2 instances:   1
+  Class: sky130_fd_sc_hd__clkbuf_16 instances: 355
+  Class: sky130_fd_sc_hd__dfxtp_1 instances: 1665
+  Class: sky130_fd_sc_hd__dfxtp_2 instances: 239
+  Class: sky130_fd_sc_hd__a32oi_2 instances:   1
+  Class: sky130_fd_sc_hd__dfxtp_4 instances: 236
+  Class: sky130_fd_sc_hd__a32oi_4 instances:   1
+  Class: sky130_fd_sc_hd__o31ai_1 instances:   7
+  Class: sky130_fd_sc_hd__o31ai_2 instances:   5
+  Class: sky130_fd_sc_hd__o31ai_4 instances:   3
+  Class: sky130_fd_sc_hd__or4_1 instances:  78
+  Class: sky130_fd_sc_hd__or4_2 instances:  20
+  Class: sky130_fd_sc_hd__or4_4 instances:  12
+  Class: sky130_fd_sc_hd__a31oi_1 instances:   5
+  Class: sky130_fd_sc_hd__a31oi_2 instances:   6
+  Class: sky130_fd_sc_hd__nand4_1 instances:  29
+  Class: sky130_fd_sc_hd__a31oi_4 instances:   8
+  Class: sky130_fd_sc_hd__nand4_2 instances:  19
+  Class: sky130_fd_sc_hd__buf_2 instances: 617
+  Class: sky130_fd_sc_hd__nand4_4 instances:  13
+  Class: sky130_fd_sc_hd__buf_4 instances: 788
+  Class: sky130_fd_sc_hd__buf_6 instances: 266
+  Class: sky130_fd_sc_hd__buf_8 instances: 136
+  Class: sky130_fd_sc_hd__a2bb2o_1 instances:  84
+  Class: sky130_fd_sc_hd__a2bb2o_2 instances:   1
+  Class: sky130_fd_sc_hd__and3b_1 instances:  33
+  Class: sky130_fd_sc_hd__and3b_2 instances:   5
+  Class: sky130_fd_sc_hd__and3b_4 instances:   1
+  Class: sky130_fd_sc_hd__xor2_1 instances: 198
+  Class: sky130_fd_sc_hd__xor2_2 instances:  34
+  Class: sky130_fd_sc_hd__xor2_4 instances:  15
+  Class: sky130_fd_sc_hd__o221ai_2 instances:   1
+  Class: sky130_fd_sc_hd__mux4_1 instances: 224
+  Class: sky130_fd_sc_hd__mux4_2 instances:  56
+  Class: sky130_fd_sc_hd__and4_1 instances: 221
+  Class: sky130_fd_sc_hd__and4_2 instances:  36
+  Class: sky130_fd_sc_hd__and4_4 instances:   5
+  Class: sky130_fd_sc_hd__inv_2 instances: 225
+  Class: sky130_fd_sc_hd__inv_4 instances:   3
+  Class: sky130_fd_sc_hd__inv_6 instances:   1
+  Class: sky130_fd_sc_hd__clkbuf_1 instances: 1871
+  Class: sky130_fd_sc_hd__clkbuf_2 instances: 514
+  Class: sky130_fd_sc_hd__clkbuf_4 instances: 602
+  Class: sky130_fd_sc_hd__clkbuf_8 instances:  51
+  Class: sky130_fd_sc_hd__or3_1 instances: 207
+  Class: sky130_fd_sc_hd__or3_2 instances:  66
+  Class: sky130_fd_sc_hd__or3_4 instances:  13
+  Class: sky130_fd_sc_hd__nand3_1 instances: 152
+  Class: sky130_fd_sc_hd__nand3_2 instances:  46
+  Class: sky130_fd_sc_hd__nand3_4 instances:   8
+  Class: sky130_fd_sc_hd__o21ba_1 instances: 114
+  Class: sky130_fd_sc_hd__o21ba_2 instances:  10
+  Class: sky130_fd_sc_hd__o21ba_4 instances:   1
+  Class: sky130_fd_sc_hd__and2b_1 instances: 194
+  Class: sky130_fd_sc_hd__conb_1 instances:  41
+  Class: sky130_fd_sc_hd__and2b_2 instances:  30
+  Class: sky130_fd_sc_hd__and2b_4 instances:   9
+  Class: sky130_fd_sc_hd__a21boi_1 instances:  14
+  Class: sky130_fd_sc_hd__a21boi_2 instances:   2
+  Class: sky130_fd_sc_hd__buf_12 instances:  67
+  Class: sky130_fd_sc_hd__a21bo_1 instances:  81
+  Class: sky130_fd_sc_hd__a21bo_2 instances:   6
+  Class: sky130_fd_sc_hd__a221oi_1 instances:  12
+  Class: sky130_fd_sc_hd__a221oi_4 instances:   2
+  Class: sky130_fd_sc_hd__clkinv_2 instances:  37
+  Class: sky130_fd_sc_hd__clkinv_4 instances:   2
+  Class: sky130_fd_sc_hd__clkinv_8 instances:   2
+  Class: sky130_fd_sc_hd__and3_1 instances: 485
+  Class: sky130_fd_sc_hd__and3_2 instances:  39
+  Class: sky130_fd_sc_hd__and3_4 instances:   5
+  Class: sky130_fd_sc_hd__clkdlybuf4s50_1 instances:   2
+  Class: sky130_fd_sc_hd__a2111o_1 instances:   1
+  Class: sky130_fd_sc_hd__decap_3 instances: 2255
+  Class: sky130_fd_sc_hd__decap_4 instances: 12712
+  Class: sky130_fd_sc_hd__decap_6 instances: 3989
+  Class: sky130_fd_sc_hd__decap_8 instances: 5346
+  Class: sky130_fd_sc_hd__or2_1 instances: 576
+  Class: sky130_fd_sc_hd__or2_2 instances:  51
+  Class: sky130_fd_sc_hd__a2111oi_1 instances:   1
+  Class: sky130_fd_sc_hd__or2_4 instances:  18
+  Class: sky130_fd_sc_hd__nand2_1 instances: 1111
+  Class: sky130_fd_sc_hd__nand2_2 instances: 106
+  Class: sky130_fd_sc_hd__nand2_4 instances:  23
+  Class: sky130_fd_sc_hd__nand2_8 instances:   1
+  Class: sky130_fd_sc_hd__nor4b_2 instances:   1
+  Class: sky130_fd_sc_hd__nor4b_4 instances:   1
+  Class: sky130_fd_sc_hd__nand3b_1 instances:   9
+  Class: sky130_fd_sc_hd__nand3b_2 instances:   9
+  Class: sky130_fd_sc_hd__mux2_1 instances: 2146
+  Class: sky130_fd_sc_hd__nand3b_4 instances:   1
+  Class: sky130_fd_sc_hd__mux2_2 instances:  59
+  Class: sky130_fd_sc_hd__mux2_4 instances:  22
+  Class: sky130_fd_sc_hd__mux2_8 instances:  12
+  Class: sky130_fd_sc_hd__o2bb2ai_1 instances:  13
+  Class: sky130_fd_sc_hd__o2bb2ai_2 instances:   2
+  Class: sky130_fd_sc_hd__a211oi_1 instances:  56
+  Class: sky130_fd_sc_hd__and2_1 instances: 577
+  Class: sky130_fd_sc_hd__a211oi_2 instances:  53
+  Class: sky130_fd_sc_hd__and2_2 instances:  31
+  Class: sky130_fd_sc_hd__a211oi_4 instances:  60
+  Class: sky130_fd_sc_hd__and2_4 instances:   9
+  Class: sky130_fd_sc_hd__or4b_1 instances:  14
+  Class: sky130_fd_sc_hd__or4b_2 instances:   4
+  Class: sky130_fd_sc_hd__or4b_4 instances:   5
+  Class: sky130_fd_sc_hd__nor4_1 instances:   7
+  Class: sky130_fd_sc_hd__nor4_2 instances:  11
+  Class: sky130_fd_sc_hd__nor4_4 instances:  22
+  Class: sky130_fd_sc_hd__o32a_1 instances:  18
+  Class: sky130_fd_sc_hd__o22a_1 instances: 156
+  Class: sky130_fd_sc_hd__o22a_2 instances:   4
+  Class: sky130_fd_sc_hd__o22a_4 instances:   4
+  Class: sky130_fd_sc_hd__xnor2_1 instances: 592
+  Class: sky130_fd_sc_hd__xnor2_2 instances: 130
+  Class: sky130_fd_sc_hd__xnor2_4 instances:  40
+  Class: sky130_fd_sc_hd__nor3b_1 instances:   1
+  Class: sky130_fd_sc_hd__nor3b_2 instances:   2
+  Class: sky130_fd_sc_hd__nor3b_4 instances:   2
+  Class: sky130_fd_sc_hd__o221a_1 instances:  50
+  Class: sky130_fd_sc_hd__o21bai_1 instances:  32
+  Class: sky130_fd_sc_hd__o21bai_2 instances:   1
+  Class: sky130_fd_sc_hd__o21bai_4 instances:   3
+  Class: sky130_fd_sc_hd__o211a_1 instances: 231
+  Class: sky130_fd_sc_hd__o211a_2 instances:  27
+  Class: sky130_fd_sc_hd__o211a_4 instances:   6
+  Class: sky130_fd_sc_hd__nand2b_1 instances:   1
+  Class: sky130_fd_sc_hd__nand2b_2 instances:   1
+  Class: sky130_fd_sc_hd__diode_2 instances: 1447
+  Class: sky130_fd_sc_hd__a221o_1 instances:  87
+  Class: sky130_fd_sc_hd__a221o_2 instances:  27
+  Class: sky130_fd_sc_hd__a221o_4 instances:  31
+  Class: sky130_fd_sc_hd__a211o_1 instances: 310
+  Class: sky130_fd_sc_hd__a211o_2 instances:  33
+  Class: sky130_fd_sc_hd__a211o_4 instances:   5
+  Class: sky130_fd_sc_hd__o2111a_1 instances:   5
+  Class: sky130_fd_sc_hd__or3b_1 instances:  42
+  Class: sky130_fd_sc_hd__or3b_2 instances:   6
+  Class: sky130_fd_sc_hd__or3b_4 instances:  59
+  Class: sky130_fd_sc_hd__dlymetal6s2s_1 instances:  67
+  Class: sky130_fd_sc_hd__or4bb_1 instances:   4
+  Class: sky130_fd_sc_hd__or4bb_2 instances:   2
+  Class: sky130_fd_sc_hd__nor3_1 instances: 113
+  Class: sky130_fd_sc_hd__nor3_2 instances:  33
+  Class: sky130_fd_sc_hd__or4bb_4 instances:   8
+  Class: sky130_fd_sc_hd__nor3_4 instances:  21
+  Class: sky130_fd_sc_hd__a32o_1 instances: 117
+  Class: sky130_fd_sc_hd__a32o_2 instances:   1
+  Class: sky130_fd_sc_hd__a32o_4 instances:   1
+  Class: sky130_fd_sc_hd__o41a_1 instances:   1
+  Class: sky130_fd_sc_hd__o41a_4 instances:   1
+  Class: sky130_fd_sc_hd__a22o_1 instances: 413
+  Class: sky130_fd_sc_hd__a22o_2 instances:  30
+  Class: sky130_fd_sc_hd__a22o_4 instances:  22
+  Class: sky130_fd_sc_hd__o31a_1 instances:  28
+  Class: sky130_fd_sc_hd__o31a_2 instances:  18
+  Class: sky130_fd_sc_hd__o31a_4 instances:   3
+  Class: sky130_fd_sc_hd__o2bb2a_1 instances: 111
+  Class: sky130_fd_sc_hd__o2bb2a_2 instances:   5
+  Class: sky130_fd_sc_hd__o21a_1 instances: 290
+  Class: sky130_fd_sc_hd__o21a_2 instances:  11
+  Class: sky130_fd_sc_hd__o21a_4 instances:   2
+  Class: sky130_fd_sc_hd__o41ai_4 instances:   1
+  Class: sky130_fd_sc_hd__o311a_1 instances:  28
+  Class: sky130_fd_sc_hd__o311a_2 instances:   6
+  Class: sky130_fd_sc_hd__o22ai_1 instances:   7
+  Class: sky130_fd_sc_hd__o22ai_2 instances:   4
+  Class: sky130_fd_sc_hd__o22ai_4 instances:   5
+  Class: sky130_fd_sc_hd__a22oi_1 instances:  89
+  Class: sky130_fd_sc_hd__a22oi_2 instances:  77
+  Class: sky130_fd_sc_hd__and4b_1 instances:  32
+  Class: sky130_fd_sc_hd__and4b_2 instances:   5
+  Class: sky130_fd_sc_hd__o21ai_1 instances: 357
+  Class: sky130_fd_sc_hd__a22oi_4 instances:  28
+  Class: sky130_fd_sc_hd__o21ai_2 instances:  70
+  Class: sky130_fd_sc_hd__tapvpwrvgnd_1 instances: 6552
+  Class: sky130_fd_sc_hd__and4b_4 instances:   8
+  Class: sky130_fd_sc_hd__o21ai_4 instances:  25
+  Class: sky130_fd_sc_hd__a21oi_1 instances: 648
+  Class: sky130_fd_sc_hd__a21oi_2 instances:  99
+  Class: sky130_fd_sc_hd__a311o_1 instances:   5
+  Class: sky130_fd_sc_hd__a21oi_4 instances:  56
+  Class: sky130_fd_sc_hd__fill_1 instances: 6759
+  Class: sky130_fd_sc_hd__fill_2 instances: 4069
+  Class: sky130_fd_sc_hd__o211ai_1 instances:  92
+  Class: sky130_fd_sc_hd__o211ai_2 instances:  59
+  Class: sky130_fd_sc_hd__decap_12 instances: 4298
+  Class: sky130_fd_sc_hd__o211ai_4 instances:  61
+  Class: sky130_fd_sc_hd__or2b_1 instances: 187
+  Class: sky130_fd_sc_hd__and4bb_1 instances:  39
+  Class: sky130_fd_sc_hd__or2b_4 instances:   5
+  Class: sky130_fd_sc_hd__and4bb_4 instances:   1
+  Class: sky130_fd_sc_hd__nor2_1 instances: 1066
+  Class: sky130_fd_sc_hd__nor2_2 instances: 107
+  Class: sky130_fd_sc_hd__nor2_4 instances:  24
+  Class: sky130_fd_sc_hd__nor2_8 instances:   9
+Circuit contains 22825 nets.
+
+Circuit was modified by parallel/series device merging.
+New circuit summary:
+
+Contents of circuit 1:  Circuit: 'picorv32_base'
+Circuit picorv32_base contains 23248 device instances.
+  Class: sky130_fd_sc_hd__a41o_1 instances:   7
+  Class: sky130_fd_sc_hd__clkdlybuf4s25_1 instances:  15
+  Class: sky130_fd_sc_hd__a31o_1 instances: 280
+  Class: sky130_fd_sc_hd__a31o_2 instances:  16
+  Class: sky130_fd_sc_hd__a31o_4 instances:   4
+  Class: sky130_fd_sc_hd__a21o_1 instances: 550
+  Class: sky130_fd_sc_hd__a21o_2 instances:  37
+  Class: sky130_fd_sc_hd__a21o_4 instances:  11
+  Class: sky130_fd_sc_hd__a2bb2oi_1 instances:   2
+  Class: sky130_fd_sc_hd__a2bb2oi_2 instances:   1
+  Class: sky130_fd_sc_hd__clkbuf_16 instances: 355
+  Class: sky130_fd_sc_hd__dfxtp_1 instances: 1665
+  Class: sky130_fd_sc_hd__a32oi_2 instances:   1
+  Class: sky130_fd_sc_hd__dfxtp_2 instances: 239
+  Class: sky130_fd_sc_hd__a32oi_4 instances:   1
+  Class: sky130_fd_sc_hd__o31ai_1 instances:   7
+  Class: sky130_fd_sc_hd__dfxtp_4 instances: 236
+  Class: sky130_fd_sc_hd__o31ai_2 instances:   5
+  Class: sky130_fd_sc_hd__o31ai_4 instances:   3
+  Class: sky130_fd_sc_hd__or4_1 instances:  78
+  Class: sky130_fd_sc_hd__or4_2 instances:  20
+  Class: sky130_fd_sc_hd__or4_4 instances:  12
+  Class: sky130_fd_sc_hd__a31oi_1 instances:   5
+  Class: sky130_fd_sc_hd__a31oi_2 instances:   6
+  Class: sky130_fd_sc_hd__nand4_1 instances:  29
+  Class: sky130_fd_sc_hd__nand4_2 instances:  19
+  Class: sky130_fd_sc_hd__a31oi_4 instances:   8
+  Class: sky130_fd_sc_hd__buf_2 instances: 617
+  Class: sky130_fd_sc_hd__nand4_4 instances:  13
+  Class: sky130_fd_sc_hd__buf_4 instances: 788
+  Class: sky130_fd_sc_hd__buf_6 instances: 266
+  Class: sky130_fd_sc_hd__buf_8 instances: 136
+  Class: sky130_fd_sc_hd__a2bb2o_1 instances:  84
+  Class: sky130_fd_sc_hd__a2bb2o_2 instances:   1
+  Class: sky130_fd_sc_hd__and3b_1 instances:  33
+  Class: sky130_fd_sc_hd__and3b_2 instances:   5
+  Class: sky130_fd_sc_hd__and3b_4 instances:   1
+  Class: sky130_fd_sc_hd__xor2_1 instances: 198
+  Class: sky130_fd_sc_hd__xor2_2 instances:  34
+  Class: sky130_fd_sc_hd__xor2_4 instances:  15
+  Class: sky130_fd_sc_hd__o221ai_2 instances:   1
+  Class: sky130_fd_sc_hd__mux4_1 instances: 224
+  Class: sky130_fd_sc_hd__mux4_2 instances:  56
+  Class: sky130_fd_sc_hd__and4_1 instances: 221
+  Class: sky130_fd_sc_hd__and4_2 instances:  36
+  Class: sky130_fd_sc_hd__and4_4 instances:   5
+  Class: sky130_fd_sc_hd__inv_2 instances: 225
+  Class: sky130_fd_sc_hd__inv_4 instances:   3
+  Class: sky130_fd_sc_hd__inv_6 instances:   1
+  Class: sky130_fd_sc_hd__clkbuf_1 instances: 1871
+  Class: sky130_fd_sc_hd__clkbuf_2 instances: 514
+  Class: sky130_fd_sc_hd__clkbuf_4 instances: 602
+  Class: sky130_fd_sc_hd__clkbuf_8 instances:  51
+  Class: sky130_fd_sc_hd__or3_1 instances: 207
+  Class: sky130_fd_sc_hd__or3_2 instances:  66
+  Class: sky130_fd_sc_hd__or3_4 instances:  13
+  Class: sky130_fd_sc_hd__nand3_1 instances: 152
+  Class: sky130_fd_sc_hd__nand3_2 instances:  46
+  Class: sky130_fd_sc_hd__nand3_4 instances:   8
+  Class: sky130_fd_sc_hd__o21ba_1 instances: 114
+  Class: sky130_fd_sc_hd__o21ba_2 instances:  10
+  Class: sky130_fd_sc_hd__o21ba_4 instances:   1
+  Class: sky130_fd_sc_hd__and2b_1 instances: 194
+  Class: sky130_fd_sc_hd__conb_1 instances:  41
+  Class: sky130_fd_sc_hd__and2b_2 instances:  30
+  Class: sky130_fd_sc_hd__and2b_4 instances:   9
+  Class: sky130_fd_sc_hd__a21boi_1 instances:  14
+  Class: sky130_fd_sc_hd__a21boi_2 instances:   2
+  Class: sky130_fd_sc_hd__buf_12 instances:  67
+  Class: sky130_fd_sc_hd__a21bo_1 instances:  81
+  Class: sky130_fd_sc_hd__a21bo_2 instances:   6
+  Class: sky130_fd_sc_hd__a221oi_1 instances:  12
+  Class: sky130_fd_sc_hd__a221oi_4 instances:   2
+  Class: sky130_fd_sc_hd__clkinv_2 instances:  37
+  Class: sky130_fd_sc_hd__clkinv_4 instances:   2
+  Class: sky130_fd_sc_hd__clkinv_8 instances:   2
+  Class: sky130_fd_sc_hd__and3_1 instances: 485
+  Class: sky130_fd_sc_hd__and3_2 instances:  39
+  Class: sky130_fd_sc_hd__and3_4 instances:   5
+  Class: sky130_fd_sc_hd__clkdlybuf4s50_1 instances:   2
+  Class: sky130_fd_sc_hd__a2111o_1 instances:   1
+  Class: sky130_fd_sc_hd__decap_3 instances:   1
+  Class: sky130_fd_sc_hd__decap_4 instances:   1
+  Class: sky130_fd_sc_hd__decap_6 instances:   1
+  Class: sky130_fd_sc_hd__decap_8 instances:   1
+  Class: sky130_fd_sc_hd__or2_1 instances: 576
+  Class: sky130_fd_sc_hd__or2_2 instances:  51
+  Class: sky130_fd_sc_hd__a2111oi_1 instances:   1
+  Class: sky130_fd_sc_hd__or2_4 instances:  18
+  Class: sky130_fd_sc_hd__nand2_1 instances: 1111
+  Class: sky130_fd_sc_hd__nand2_2 instances: 106
+  Class: sky130_fd_sc_hd__nand2_4 instances:  23
+  Class: sky130_fd_sc_hd__nor4b_2 instances:   1
+  Class: sky130_fd_sc_hd__nand2_8 instances:   1
+  Class: sky130_fd_sc_hd__nor4b_4 instances:   1
+  Class: sky130_fd_sc_hd__nand3b_1 instances:   9
+  Class: sky130_fd_sc_hd__nand3b_2 instances:   9
+  Class: sky130_fd_sc_hd__mux2_1 instances: 2146
+  Class: sky130_fd_sc_hd__nand3b_4 instances:   1
+  Class: sky130_fd_sc_hd__mux2_2 instances:  59
+  Class: sky130_fd_sc_hd__mux2_4 instances:  22
+  Class: sky130_fd_sc_hd__mux2_8 instances:  12
+  Class: sky130_fd_sc_hd__o2bb2ai_1 instances:  13
+  Class: sky130_fd_sc_hd__o2bb2ai_2 instances:   2
+  Class: sky130_fd_sc_hd__a211oi_1 instances:  56
+  Class: sky130_fd_sc_hd__and2_1 instances: 577
+  Class: sky130_fd_sc_hd__and2_2 instances:  31
+  Class: sky130_fd_sc_hd__a211oi_2 instances:  53
+  Class: sky130_fd_sc_hd__and2_4 instances:   9
+  Class: sky130_fd_sc_hd__a211oi_4 instances:  60
+  Class: sky130_fd_sc_hd__or4b_1 instances:  14
+  Class: sky130_fd_sc_hd__or4b_2 instances:   4
+  Class: sky130_fd_sc_hd__or4b_4 instances:   5
+  Class: sky130_fd_sc_hd__nor4_1 instances:   7
+  Class: sky130_fd_sc_hd__nor4_2 instances:  11
+  Class: sky130_fd_sc_hd__nor4_4 instances:  22
+  Class: sky130_fd_sc_hd__o32a_1 instances:  18
+  Class: sky130_fd_sc_hd__o22a_1 instances: 156
+  Class: sky130_fd_sc_hd__o22a_2 instances:   4
+  Class: sky130_fd_sc_hd__o22a_4 instances:   4
+  Class: sky130_fd_sc_hd__xnor2_1 instances: 592
+  Class: sky130_fd_sc_hd__xnor2_2 instances: 130
+  Class: sky130_fd_sc_hd__xnor2_4 instances:  40
+  Class: sky130_fd_sc_hd__nor3b_1 instances:   1
+  Class: sky130_fd_sc_hd__nor3b_2 instances:   2
+  Class: sky130_fd_sc_hd__nor3b_4 instances:   2
+  Class: sky130_fd_sc_hd__o221a_1 instances:  50
+  Class: sky130_fd_sc_hd__o21bai_1 instances:  32
+  Class: sky130_fd_sc_hd__o21bai_2 instances:   1
+  Class: sky130_fd_sc_hd__o21bai_4 instances:   3
+  Class: sky130_fd_sc_hd__o211a_1 instances: 231
+  Class: sky130_fd_sc_hd__o211a_2 instances:  27
+  Class: sky130_fd_sc_hd__o211a_4 instances:   6
+  Class: sky130_fd_sc_hd__nand2b_1 instances:   1
+  Class: sky130_fd_sc_hd__nand2b_2 instances:   1
+  Class: sky130_fd_sc_hd__diode_2 instances: 560
+  Class: sky130_fd_sc_hd__a221o_1 instances:  87
+  Class: sky130_fd_sc_hd__a221o_2 instances:  27
+  Class: sky130_fd_sc_hd__a221o_4 instances:  31
+  Class: sky130_fd_sc_hd__a211o_1 instances: 310
+  Class: sky130_fd_sc_hd__a211o_2 instances:  33
+  Class: sky130_fd_sc_hd__a211o_4 instances:   5
+  Class: sky130_fd_sc_hd__o2111a_1 instances:   5
+  Class: sky130_fd_sc_hd__or3b_1 instances:  42
+  Class: sky130_fd_sc_hd__or3b_2 instances:   6
+  Class: sky130_fd_sc_hd__or3b_4 instances:  59
+  Class: sky130_fd_sc_hd__dlymetal6s2s_1 instances:  67
+  Class: sky130_fd_sc_hd__or4bb_1 instances:   4
+  Class: sky130_fd_sc_hd__or4bb_2 instances:   2
+  Class: sky130_fd_sc_hd__nor3_1 instances: 113
+  Class: sky130_fd_sc_hd__nor3_2 instances:  33
+  Class: sky130_fd_sc_hd__or4bb_4 instances:   8
+  Class: sky130_fd_sc_hd__nor3_4 instances:  21
+  Class: sky130_fd_sc_hd__a32o_1 instances: 117
+  Class: sky130_fd_sc_hd__a32o_2 instances:   1
+  Class: sky130_fd_sc_hd__a32o_4 instances:   1
+  Class: sky130_fd_sc_hd__o41a_1 instances:   1
+  Class: sky130_fd_sc_hd__o41a_4 instances:   1
+  Class: sky130_fd_sc_hd__a22o_1 instances: 413
+  Class: sky130_fd_sc_hd__a22o_2 instances:  30
+  Class: sky130_fd_sc_hd__a22o_4 instances:  22
+  Class: sky130_fd_sc_hd__o31a_1 instances:  28
+  Class: sky130_fd_sc_hd__o31a_2 instances:  18
+  Class: sky130_fd_sc_hd__o31a_4 instances:   3
+  Class: sky130_fd_sc_hd__o2bb2a_1 instances: 111
+  Class: sky130_fd_sc_hd__o2bb2a_2 instances:   5
+  Class: sky130_fd_sc_hd__o21a_1 instances: 290
+  Class: sky130_fd_sc_hd__o21a_2 instances:  11
+  Class: sky130_fd_sc_hd__o21a_4 instances:   2
+  Class: sky130_fd_sc_hd__o41ai_4 instances:   1
+  Class: sky130_fd_sc_hd__o311a_1 instances:  28
+  Class: sky130_fd_sc_hd__o311a_2 instances:   6
+  Class: sky130_fd_sc_hd__o22ai_1 instances:   7
+  Class: sky130_fd_sc_hd__o22ai_2 instances:   4
+  Class: sky130_fd_sc_hd__o22ai_4 instances:   5
+  Class: sky130_fd_sc_hd__a22oi_1 instances:  89
+  Class: sky130_fd_sc_hd__a22oi_2 instances:  77
+  Class: sky130_fd_sc_hd__and4b_1 instances:  32
+  Class: sky130_fd_sc_hd__and4b_2 instances:   5
+  Class: sky130_fd_sc_hd__a22oi_4 instances:  28
+  Class: sky130_fd_sc_hd__o21ai_1 instances: 357
+  Class: sky130_fd_sc_hd__o21ai_2 instances:  70
+  Class: sky130_fd_sc_hd__tapvpwrvgnd_1 instances:   1
+  Class: sky130_fd_sc_hd__and4b_4 instances:   8
+  Class: sky130_fd_sc_hd__o21ai_4 instances:  25
+  Class: sky130_fd_sc_hd__a21oi_1 instances: 648
+  Class: sky130_fd_sc_hd__a21oi_2 instances:  99
+  Class: sky130_fd_sc_hd__a311o_1 instances:   5
+  Class: sky130_fd_sc_hd__a21oi_4 instances:  56
+  Class: sky130_fd_sc_hd__fill_1 instances:   1
+  Class: sky130_fd_sc_hd__fill_2 instances:   1
+  Class: sky130_fd_sc_hd__o211ai_1 instances:  92
+  Class: sky130_fd_sc_hd__o211ai_2 instances:  59
+  Class: sky130_fd_sc_hd__decap_12 instances:   1
+  Class: sky130_fd_sc_hd__o211ai_4 instances:  61
+  Class: sky130_fd_sc_hd__or2b_1 instances: 187
+  Class: sky130_fd_sc_hd__and4bb_1 instances:  39
+  Class: sky130_fd_sc_hd__or2b_4 instances:   5
+  Class: sky130_fd_sc_hd__and4bb_4 instances:   1
+  Class: sky130_fd_sc_hd__nor2_1 instances: 1066
+  Class: sky130_fd_sc_hd__nor2_2 instances: 107
+  Class: sky130_fd_sc_hd__nor2_4 instances:  24
+  Class: sky130_fd_sc_hd__nor2_8 instances:   9
+Circuit contains 22825 nets.
+Contents of circuit 2:  Circuit: 'picorv32_base'
+Circuit picorv32_base contains 23248 device instances.
+  Class: sky130_fd_sc_hd__a41o_1 instances:   7
+  Class: sky130_fd_sc_hd__clkdlybuf4s25_1 instances:  15
+  Class: sky130_fd_sc_hd__a31o_1 instances: 280
+  Class: sky130_fd_sc_hd__a31o_2 instances:  16
+  Class: sky130_fd_sc_hd__a31o_4 instances:   4
+  Class: sky130_fd_sc_hd__a21o_1 instances: 550
+  Class: sky130_fd_sc_hd__a21o_2 instances:  37
+  Class: sky130_fd_sc_hd__a21o_4 instances:  11
+  Class: sky130_fd_sc_hd__a2bb2oi_1 instances:   2
+  Class: sky130_fd_sc_hd__a2bb2oi_2 instances:   1
+  Class: sky130_fd_sc_hd__clkbuf_16 instances: 355
+  Class: sky130_fd_sc_hd__dfxtp_1 instances: 1665
+  Class: sky130_fd_sc_hd__dfxtp_2 instances: 239
+  Class: sky130_fd_sc_hd__a32oi_2 instances:   1
+  Class: sky130_fd_sc_hd__dfxtp_4 instances: 236
+  Class: sky130_fd_sc_hd__a32oi_4 instances:   1
+  Class: sky130_fd_sc_hd__o31ai_1 instances:   7
+  Class: sky130_fd_sc_hd__o31ai_2 instances:   5
+  Class: sky130_fd_sc_hd__o31ai_4 instances:   3
+  Class: sky130_fd_sc_hd__or4_1 instances:  78
+  Class: sky130_fd_sc_hd__or4_2 instances:  20
+  Class: sky130_fd_sc_hd__or4_4 instances:  12
+  Class: sky130_fd_sc_hd__a31oi_1 instances:   5
+  Class: sky130_fd_sc_hd__a31oi_2 instances:   6
+  Class: sky130_fd_sc_hd__nand4_1 instances:  29
+  Class: sky130_fd_sc_hd__a31oi_4 instances:   8
+  Class: sky130_fd_sc_hd__nand4_2 instances:  19
+  Class: sky130_fd_sc_hd__buf_2 instances: 617
+  Class: sky130_fd_sc_hd__nand4_4 instances:  13
+  Class: sky130_fd_sc_hd__buf_4 instances: 788
+  Class: sky130_fd_sc_hd__buf_6 instances: 266
+  Class: sky130_fd_sc_hd__buf_8 instances: 136
+  Class: sky130_fd_sc_hd__a2bb2o_1 instances:  84
+  Class: sky130_fd_sc_hd__a2bb2o_2 instances:   1
+  Class: sky130_fd_sc_hd__and3b_1 instances:  33
+  Class: sky130_fd_sc_hd__and3b_2 instances:   5
+  Class: sky130_fd_sc_hd__and3b_4 instances:   1
+  Class: sky130_fd_sc_hd__xor2_1 instances: 198
+  Class: sky130_fd_sc_hd__xor2_2 instances:  34
+  Class: sky130_fd_sc_hd__xor2_4 instances:  15
+  Class: sky130_fd_sc_hd__o221ai_2 instances:   1
+  Class: sky130_fd_sc_hd__mux4_1 instances: 224
+  Class: sky130_fd_sc_hd__mux4_2 instances:  56
+  Class: sky130_fd_sc_hd__and4_1 instances: 221
+  Class: sky130_fd_sc_hd__and4_2 instances:  36
+  Class: sky130_fd_sc_hd__and4_4 instances:   5
+  Class: sky130_fd_sc_hd__inv_2 instances: 225
+  Class: sky130_fd_sc_hd__inv_4 instances:   3
+  Class: sky130_fd_sc_hd__inv_6 instances:   1
+  Class: sky130_fd_sc_hd__clkbuf_1 instances: 1871
+  Class: sky130_fd_sc_hd__clkbuf_2 instances: 514
+  Class: sky130_fd_sc_hd__clkbuf_4 instances: 602
+  Class: sky130_fd_sc_hd__clkbuf_8 instances:  51
+  Class: sky130_fd_sc_hd__or3_1 instances: 207
+  Class: sky130_fd_sc_hd__or3_2 instances:  66
+  Class: sky130_fd_sc_hd__or3_4 instances:  13
+  Class: sky130_fd_sc_hd__nand3_1 instances: 152
+  Class: sky130_fd_sc_hd__nand3_2 instances:  46
+  Class: sky130_fd_sc_hd__nand3_4 instances:   8
+  Class: sky130_fd_sc_hd__o21ba_1 instances: 114
+  Class: sky130_fd_sc_hd__o21ba_2 instances:  10
+  Class: sky130_fd_sc_hd__o21ba_4 instances:   1
+  Class: sky130_fd_sc_hd__and2b_1 instances: 194
+  Class: sky130_fd_sc_hd__conb_1 instances:  41
+  Class: sky130_fd_sc_hd__and2b_2 instances:  30
+  Class: sky130_fd_sc_hd__and2b_4 instances:   9
+  Class: sky130_fd_sc_hd__a21boi_1 instances:  14
+  Class: sky130_fd_sc_hd__a21boi_2 instances:   2
+  Class: sky130_fd_sc_hd__buf_12 instances:  67
+  Class: sky130_fd_sc_hd__a21bo_1 instances:  81
+  Class: sky130_fd_sc_hd__a21bo_2 instances:   6
+  Class: sky130_fd_sc_hd__a221oi_1 instances:  12
+  Class: sky130_fd_sc_hd__a221oi_4 instances:   2
+  Class: sky130_fd_sc_hd__clkinv_2 instances:  37
+  Class: sky130_fd_sc_hd__clkinv_4 instances:   2
+  Class: sky130_fd_sc_hd__clkinv_8 instances:   2
+  Class: sky130_fd_sc_hd__and3_1 instances: 485
+  Class: sky130_fd_sc_hd__and3_2 instances:  39
+  Class: sky130_fd_sc_hd__and3_4 instances:   5
+  Class: sky130_fd_sc_hd__clkdlybuf4s50_1 instances:   2
+  Class: sky130_fd_sc_hd__a2111o_1 instances:   1
+  Class: sky130_fd_sc_hd__decap_3 instances:   1
+  Class: sky130_fd_sc_hd__decap_4 instances:   1
+  Class: sky130_fd_sc_hd__decap_6 instances:   1
+  Class: sky130_fd_sc_hd__decap_8 instances:   1
+  Class: sky130_fd_sc_hd__or2_1 instances: 576
+  Class: sky130_fd_sc_hd__or2_2 instances:  51
+  Class: sky130_fd_sc_hd__a2111oi_1 instances:   1
+  Class: sky130_fd_sc_hd__or2_4 instances:  18
+  Class: sky130_fd_sc_hd__nand2_1 instances: 1111
+  Class: sky130_fd_sc_hd__nand2_2 instances: 106
+  Class: sky130_fd_sc_hd__nand2_4 instances:  23
+  Class: sky130_fd_sc_hd__nand2_8 instances:   1
+  Class: sky130_fd_sc_hd__nor4b_2 instances:   1
+  Class: sky130_fd_sc_hd__nor4b_4 instances:   1
+  Class: sky130_fd_sc_hd__nand3b_1 instances:   9
+  Class: sky130_fd_sc_hd__nand3b_2 instances:   9
+  Class: sky130_fd_sc_hd__mux2_1 instances: 2146
+  Class: sky130_fd_sc_hd__nand3b_4 instances:   1
+  Class: sky130_fd_sc_hd__mux2_2 instances:  59
+  Class: sky130_fd_sc_hd__mux2_4 instances:  22
+  Class: sky130_fd_sc_hd__mux2_8 instances:  12
+  Class: sky130_fd_sc_hd__o2bb2ai_1 instances:  13
+  Class: sky130_fd_sc_hd__o2bb2ai_2 instances:   2
+  Class: sky130_fd_sc_hd__a211oi_1 instances:  56
+  Class: sky130_fd_sc_hd__and2_1 instances: 577
+  Class: sky130_fd_sc_hd__a211oi_2 instances:  53
+  Class: sky130_fd_sc_hd__and2_2 instances:  31
+  Class: sky130_fd_sc_hd__a211oi_4 instances:  60
+  Class: sky130_fd_sc_hd__and2_4 instances:   9
+  Class: sky130_fd_sc_hd__or4b_1 instances:  14
+  Class: sky130_fd_sc_hd__or4b_2 instances:   4
+  Class: sky130_fd_sc_hd__or4b_4 instances:   5
+  Class: sky130_fd_sc_hd__nor4_1 instances:   7
+  Class: sky130_fd_sc_hd__nor4_2 instances:  11
+  Class: sky130_fd_sc_hd__nor4_4 instances:  22
+  Class: sky130_fd_sc_hd__o32a_1 instances:  18
+  Class: sky130_fd_sc_hd__o22a_1 instances: 156
+  Class: sky130_fd_sc_hd__o22a_2 instances:   4
+  Class: sky130_fd_sc_hd__o22a_4 instances:   4
+  Class: sky130_fd_sc_hd__xnor2_1 instances: 592
+  Class: sky130_fd_sc_hd__xnor2_2 instances: 130
+  Class: sky130_fd_sc_hd__xnor2_4 instances:  40
+  Class: sky130_fd_sc_hd__nor3b_1 instances:   1
+  Class: sky130_fd_sc_hd__nor3b_2 instances:   2
+  Class: sky130_fd_sc_hd__nor3b_4 instances:   2
+  Class: sky130_fd_sc_hd__o221a_1 instances:  50
+  Class: sky130_fd_sc_hd__o21bai_1 instances:  32
+  Class: sky130_fd_sc_hd__o21bai_2 instances:   1
+  Class: sky130_fd_sc_hd__o21bai_4 instances:   3
+  Class: sky130_fd_sc_hd__o211a_1 instances: 231
+  Class: sky130_fd_sc_hd__o211a_2 instances:  27
+  Class: sky130_fd_sc_hd__o211a_4 instances:   6
+  Class: sky130_fd_sc_hd__nand2b_1 instances:   1
+  Class: sky130_fd_sc_hd__nand2b_2 instances:   1
+  Class: sky130_fd_sc_hd__diode_2 instances: 560
+  Class: sky130_fd_sc_hd__a221o_1 instances:  87
+  Class: sky130_fd_sc_hd__a221o_2 instances:  27
+  Class: sky130_fd_sc_hd__a221o_4 instances:  31
+  Class: sky130_fd_sc_hd__a211o_1 instances: 310
+  Class: sky130_fd_sc_hd__a211o_2 instances:  33
+  Class: sky130_fd_sc_hd__a211o_4 instances:   5
+  Class: sky130_fd_sc_hd__o2111a_1 instances:   5
+  Class: sky130_fd_sc_hd__or3b_1 instances:  42
+  Class: sky130_fd_sc_hd__or3b_2 instances:   6
+  Class: sky130_fd_sc_hd__or3b_4 instances:  59
+  Class: sky130_fd_sc_hd__dlymetal6s2s_1 instances:  67
+  Class: sky130_fd_sc_hd__or4bb_1 instances:   4
+  Class: sky130_fd_sc_hd__or4bb_2 instances:   2
+  Class: sky130_fd_sc_hd__nor3_1 instances: 113
+  Class: sky130_fd_sc_hd__nor3_2 instances:  33
+  Class: sky130_fd_sc_hd__or4bb_4 instances:   8
+  Class: sky130_fd_sc_hd__nor3_4 instances:  21
+  Class: sky130_fd_sc_hd__a32o_1 instances: 117
+  Class: sky130_fd_sc_hd__a32o_2 instances:   1
+  Class: sky130_fd_sc_hd__a32o_4 instances:   1
+  Class: sky130_fd_sc_hd__o41a_1 instances:   1
+  Class: sky130_fd_sc_hd__o41a_4 instances:   1
+  Class: sky130_fd_sc_hd__a22o_1 instances: 413
+  Class: sky130_fd_sc_hd__a22o_2 instances:  30
+  Class: sky130_fd_sc_hd__a22o_4 instances:  22
+  Class: sky130_fd_sc_hd__o31a_1 instances:  28
+  Class: sky130_fd_sc_hd__o31a_2 instances:  18
+  Class: sky130_fd_sc_hd__o31a_4 instances:   3
+  Class: sky130_fd_sc_hd__o2bb2a_1 instances: 111
+  Class: sky130_fd_sc_hd__o2bb2a_2 instances:   5
+  Class: sky130_fd_sc_hd__o21a_1 instances: 290
+  Class: sky130_fd_sc_hd__o21a_2 instances:  11
+  Class: sky130_fd_sc_hd__o21a_4 instances:   2
+  Class: sky130_fd_sc_hd__o41ai_4 instances:   1
+  Class: sky130_fd_sc_hd__o311a_1 instances:  28
+  Class: sky130_fd_sc_hd__o311a_2 instances:   6
+  Class: sky130_fd_sc_hd__o22ai_1 instances:   7
+  Class: sky130_fd_sc_hd__o22ai_2 instances:   4
+  Class: sky130_fd_sc_hd__o22ai_4 instances:   5
+  Class: sky130_fd_sc_hd__a22oi_1 instances:  89
+  Class: sky130_fd_sc_hd__a22oi_2 instances:  77
+  Class: sky130_fd_sc_hd__and4b_1 instances:  32
+  Class: sky130_fd_sc_hd__and4b_2 instances:   5
+  Class: sky130_fd_sc_hd__o21ai_1 instances: 357
+  Class: sky130_fd_sc_hd__a22oi_4 instances:  28
+  Class: sky130_fd_sc_hd__o21ai_2 instances:  70
+  Class: sky130_fd_sc_hd__tapvpwrvgnd_1 instances:   1
+  Class: sky130_fd_sc_hd__and4b_4 instances:   8
+  Class: sky130_fd_sc_hd__o21ai_4 instances:  25
+  Class: sky130_fd_sc_hd__a21oi_1 instances: 648
+  Class: sky130_fd_sc_hd__a21oi_2 instances:  99
+  Class: sky130_fd_sc_hd__a311o_1 instances:   5
+  Class: sky130_fd_sc_hd__a21oi_4 instances:  56
+  Class: sky130_fd_sc_hd__fill_1 instances:   1
+  Class: sky130_fd_sc_hd__fill_2 instances:   1
+  Class: sky130_fd_sc_hd__o211ai_1 instances:  92
+  Class: sky130_fd_sc_hd__o211ai_2 instances:  59
+  Class: sky130_fd_sc_hd__decap_12 instances:   1
+  Class: sky130_fd_sc_hd__o211ai_4 instances:  61
+  Class: sky130_fd_sc_hd__or2b_1 instances: 187
+  Class: sky130_fd_sc_hd__and4bb_1 instances:  39
+  Class: sky130_fd_sc_hd__or2b_4 instances:   5
+  Class: sky130_fd_sc_hd__and4bb_4 instances:   1
+  Class: sky130_fd_sc_hd__nor2_1 instances: 1066
+  Class: sky130_fd_sc_hd__nor2_2 instances: 107
+  Class: sky130_fd_sc_hd__nor2_4 instances:  24
+  Class: sky130_fd_sc_hd__nor2_8 instances:   9
+Circuit contains 22825 nets.
+
+Circuit 1 contains 23248 devices, Circuit 2 contains 23248 devices.
+Circuit 1 contains 22825 nets,    Circuit 2 contains 22825 nets.
+
+Circuits match with 3 symmetries.
+Resolving automorphisms by property value.
+Resolving automorphisms by pin name.
+Netlists match uniquely.
+Circuits match correctly.
+Result: Circuits match uniquely.
+Logging to file "/openlane/designs/picorv32_base/runs/RUN_2022.04.10_15.39.50/logs/finishing/34-picorv32_base.lef.log" disabled
+LVS Done.

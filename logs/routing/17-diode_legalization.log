@@ -1,0 +1,28 @@
+OpenROAD 944855835623e651e7b9c7c50efcce1fb04b4fee 
+This program is licensed under the BSD-3 license. See the LICENSE file for details.
+Components of this program may be licensed under more restrictive licenses which must be honored.
+[INFO ODB-0222] Reading LEF file: /openlane/designs/picorv32_base/runs/RUN_2022.04.10_15.39.50/tmp/merged_unpadded.lef
+[INFO ODB-0223]     Created 13 technology layers
+[INFO ODB-0224]     Created 25 technology vias
+[INFO ODB-0225]     Created 441 library cells
+[INFO ODB-0226] Finished LEF file:  /openlane/designs/picorv32_base/runs/RUN_2022.04.10_15.39.50/tmp/merged_unpadded.lef
+[INFO ODB-0127] Reading DEF file: /openlane/designs/picorv32_base/runs/RUN_2022.04.10_15.39.50/tmp/routing/15-resizer_timing.def
+[INFO ODB-0128] Design: picorv32_base
+[INFO ODB-0130]     Created 411 pins.
+[INFO ODB-0131]     Created 29732 components and 182616 component-terminals.
+[INFO ODB-0132]     Created 2 special nets and 105824 connections.
+[INFO ODB-0133]     Created 22782 nets and 76751 connections.
+[INFO ODB-0134] Finished DEF file: /openlane/designs/picorv32_base/runs/RUN_2022.04.10_15.39.50/tmp/routing/15-resizer_timing.def
+Placement Analysis
+---------------------------------
+total displacement          0.0 u
+average displacement        0.0 u
+max displacement            0.0 u
+original HPWL         1165366.0 u
+legalized HPWL        1183229.7 u
+delta HPWL                    2 %
+
+[INFO DPL-0020] Mirrored 8940 instances
+[INFO DPL-0021] HPWL before          1183229.7 u
+[INFO DPL-0022] HPWL after           1165366.0 u
+[INFO DPL-0023] HPWL delta               -1.5 %
