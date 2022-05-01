@@ -114,3 +114,6 @@ OpenLANE uses TritonRoute, an open source router for modern industrial designs. 
 
 • Global Routing - Routing guides are generated for interconnects.
 • Detailed Routing - Tracks are generated interatively.
+
+TritonRoute 14 ensures there are no DRC violations after routing. OpenLane supports running multithreaded runs for routing.
+
