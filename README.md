@@ -16,7 +16,7 @@ cycle ALU and 2 clock cycle compare enabled. We tried to fix errors and STA viol
 
 ### PicoRV32
 
-![core](D:\Deepan\Text Books\6th Semester\EC383 VLSI Mini Project\Project\Images\core.png)
+![core](Images\core.png)
 
 ​																							**Base core**
 
@@ -28,11 +28,11 @@ The core also includes a separate core picorv32_axi_adapter is provided to bridg
 AXI4. This core can be used to create custom cores that include one or more PicoRV32 cores together with local RAM, ROM, and
 memory-mapped peripherals, communicating with each other using the native interface, and communicating with the outside world via AXI4. [5]
 
-![axi](D:\Deepan\Text Books\6th Semester\EC383 VLSI Mini Project\Project\Images\axi.png)
+![axi](Images\axi.png)
 
 ​																					**AXI Interface Enabled**
 
-![wishbone](D:\Deepan\Text Books\6th Semester\EC383 VLSI Mini Project\Project\Images\wishbone.png)
+![wishbone](Images\wishbone.png)
 
 ​																					**Wishbone Interface Enabled**
 
@@ -75,7 +75,7 @@ This adds an additional FF stage in the ALU data path, improving timing at the c
 
 The thing that makes PicoRV32 ideal for use in microcontrollers is its Pico Co-Processor Interface (PCPI) feature. The PCPI is an interface that can be enabled by changing verilog parameters as mentioned above. PCPI helps adding additional functionality to the core easier provided they are non-branching instructions.
 
-![PCPI](D:\Deepan\Text Books\6th Semester\EC383 VLSI Mini Project\Project\Images\PCPI.png)
+![PCPI](Images\PCPI.png)
 
 When an unsupported instruction is found by PicoRV32 occurs it asserts pcpi_valid. The unsopported instruction is sent to pcpi_insn for the co-processor to recognise it. The decoded values of registers is made available through pcpi_rs1 and pcpi_rs2 and its output can be sent to pcpi_rd. The pcpi_ready needs to asserted when the execution of the instruction is over.
 
@@ -270,11 +270,11 @@ modes.
 • Routed Gate Density is 160 kGates/mm2 or better.
 • Body Bias-able
 
-![Table1](D:\Deepan\Text Books\6th Semester\EC383 VLSI Mini Project\Project\Images\Table1.png)
+![Table1](Images\Table1.png)
 
 We ran the PicoRV32 with the following configuration -
 
-![core_config](D:\Deepan\Text Books\6th Semester\EC383 VLSI Mini Project\Project\Images\core_config.jpeg)
+![core_config](|\\\\Images\core_config.jpeg)
 
 ## Results
 
