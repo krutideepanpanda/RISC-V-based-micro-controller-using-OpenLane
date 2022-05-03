@@ -5,7 +5,10 @@ This project was done by -
 - [Kruti Deepan Panda](https://github.com/krutideepanpanda)
 - [Rahul Magesh](https://github.com/RAZ4AMZ)
 
+Credit to -
 
+- [PicoRV32](https://github.com/YosysHQ/picorv32)
+- [OpenLane](https://github.com/The-OpenROAD-Project/OpenLane)
 
 This project explores the highly customizable PicoRV32 and explores its various configurations.
 We have tried running the base core enabled with PCPI, AXI version of the core with PCPI
