@@ -297,7 +297,7 @@ We ran the PicoRV32 with the following configuration -
 
 ### Final summary report
 
-![](.\Images\final.png)
+![](Images/final.png)
 
 ### Viewing GDSII using Klayout
 
