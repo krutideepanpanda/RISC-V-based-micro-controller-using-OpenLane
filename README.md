@@ -33,9 +33,13 @@ The core also includes a separate core picorv32_axi_adapter is provided to bridg
 AXI4. This core can be used to create custom cores that include one or more PicoRV32 cores together with local RAM, ROM, and
 memory-mapped peripherals, communicating with each other using the native interface, and communicating with the outside world via AXI4. [5]
 
+------
+
 ![axi](Images/axi.png)
 
 ​																					**AXI Interface Enabled**
+
+------
 
 ![wishbone](Images/wishbone.png)
 
