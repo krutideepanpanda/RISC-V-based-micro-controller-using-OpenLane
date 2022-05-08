@@ -281,6 +281,14 @@ We ran the PicoRV32 with the following configuration -
 
 ## Results
 
+### Synthesis exploration
+
 ![synth_explore_crop](Images/synth_explore_crop.png)
+
+### Final summary report
+
+![](.\Images\final.png)
+
+### Viewing GDSII using Klayout
 
 ![klayout](Images/klayout.jpeg)
