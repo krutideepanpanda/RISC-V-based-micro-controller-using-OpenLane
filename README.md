@@ -23,6 +23,8 @@ cycle ALU and 2 clock cycle compare enabled. We tried to fix errors and STA viol
 
 ​																							**Base core**
 
+------
+
 The PicoRV32 is a higly customizable core by YosysHQ. The PicoRV32 is a small core in terms of area but has high configurability. It
 can be configured as RV32E, RV32I, RV32IC, RV32IM, or RV32IMC core, and optionally contains a built-in interrupt controller. [5] On top of that the core supports multiple memory interfaces. The core exists in three variations: picorv32, picorv32_axi and picorv32_wb. The first provides a simple native memory interface, that is easy to use in simple environments.
 picorv32_axi provides an AXI-4 Lite Master [4] interface that can easily be integrated with existing systems that are already using the AXI standard. picorv32_wb provides a Wishbone master interface [5].
@@ -38,6 +40,8 @@ memory-mapped peripherals, communicating with each other using the native interf
 ![wishbone](Images/wishbone.png)
 
 ​																					**Wishbone Interface Enabled**
+
+------
 
 PicoRV32 comes with internal verilog parameters which can be modified to generate our desired core. These internal parameters can be modified to implement additional features of the base core. When a parameter is set the corresponding logic or modules is generated using the *generate* keyword in verilog. Some parameters are explained below.
 
@@ -126,6 +130,8 @@ OpenLANE uses TritonRoute, an open source router for modern industrial designs. 
 • Detailed Routing - Tracks are generated interatively.
 
 TritonRoute 14 ensures there are no DRC violations after routing. OpenLane supports running multithreaded runs for routing.
+
+------
 
 ### config.tcl parameters
 
